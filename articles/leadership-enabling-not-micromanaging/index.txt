@@ -1,0 +1,143 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/40n-2bfde5oea.js"
+3:I[70119,["$2"],"default"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/_next/static/chunks/338dznf914jsj.js"
+7:I[22016,["$2","$6"],""]
+d:I[97367,["$2"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$2"],"$10"]
+13:"MetadataBoundary"
+14:I[97367,["$2"],"$13"]
+16:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/33p10d5dkoxhk.css","style"]
+:HL["/_next/static/media/0d3323de857e1fce-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/660acf689794c992-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/86fd170c8543a779-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+9:X
+b:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/338dznf914jsj.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":false,"v":null}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"leadership-enabling-not-micromanaging","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qb"}]]
+8:[["children",{"s":"articles","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","articles","leadership-enabling-not-micromanaging",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/33p10d5dkoxhk.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/40n-2bfde5oea.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"PWemFG_variable -YaY6W_variable dwiynG_variable","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$L3",null,{}],["$","main",null,{"id":"main","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"listing-hero container not-found","children":[["$","p",null,{"className":"eyebrow","children":"Error 404"}],["$","h1",null,{"children":["Page not found",["$","span",null,{"children":"."}]]}],["$","p",null,{"children":"That page doesn't exist, or it may have moved."}],["$","$L7",null,{"className":"button-link","href":"/","children":["Back to the journal ",["$","span",null,{"children":"↗"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"children":[["$","$L7",null,{"className":"footer-brand","href":"/","children":["Stack & Strategy",["$","span",null,{"children":"."}]]}],["$","p",null,{"children":"Independent thinking for people building what comes next."}]]}],["$","div",null,{"className":"footer-links","children":[["$","$L7",null,{"href":"/about/","children":"About"}],["$","a",null,{"href":"/rss.xml","children":"RSS feed"}],["$","$L7",null,{"href":"/privacy/","children":"Privacy"}],["$","a",null,{"href":"mailto:hello@stackandstrategy.in","children":"Contact"}]]}],["$","div",null,{"className":"copyright","children":["© ",2026," ","Stack & Strategy",". All rights reserved."]}]]}]}]]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":"$L15"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$16",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/33p10d5dkoxhk.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"z35pZkIXj-V447Lv1AFmv"}
+9:C
+17:T32f6,<p>There is a subtle difference between being involved as a leader and being involved in everything.</p>
+<p>I've seen managers who know every task their team members are working on, every email being sent, every conversation happening, and every decision being considered. They attend every meeting, review every deliverable, question every deviation, and expect to be copied on practically everything.</p>
+<p>At first glance, this might look like strong leadership. There is visibility, involvement, and a sense of control.</p>
+<p>But I often wonder: <strong>If everything needs your attention, what exactly have you enabled your team to do independently?</strong></p>
+<p>To me, leadership is not about becoming the central point through which every decision, activity, and outcome must pass. It is about building a team that has the clarity, confidence, capability, and authority to move forward without constantly looking over its shoulder.</p>
+<h2 id="the-difference-between-managing-work-and-enabling-people">The difference between managing work and enabling people</h2>
+<p>Consider two different situations.</p>
+<p>A critical production issue surfaces. A team of engineers is investigating the problem.</p>
+<p>In the first situation, the manager immediately takes charge. They ask for updates every 15 minutes, dictate which engineer should investigate which component, question every technical decision, and insist that all proposed changes come to them for approval.</p>
+<p>The team eventually resolves the issue.</p>
+<p>The manager feels accomplished because they were involved throughout the process.</p>
+<p>But what happens the next time a similar issue occurs? The team waits for the manager again. Nobody wants to make a decision independently because they have learned that decisions belong to the manager.</p>
+<p>Now consider a different approach.</p>
+<p>The manager establishes the severity of the issue, clarifies the expected outcome, ensures the team has access to the necessary resources, and identifies any organizational dependencies that need escalation.</p>
+<p>The engineers take ownership of the investigation. They collaborate, evaluate alternatives, make technical decisions within agreed boundaries, and communicate progress.</p>
+<p>The manager remains available, removes obstacles, challenges assumptions when necessary, and steps in when the situation requires leadership intervention.</p>
+<p>The outcome might be exactly the same: the production issue gets resolved.</p>
+<p>But the long-term impact is very different.</p>
+<p>In the first situation, the organization has resolved an incident with the manager's involvement.</p>
+<p>In the second, it has developed a team that is better equipped to resolve the next incident independently.</p>
+<p><strong>One approach solves today's problem. The other builds tomorrow's capability.</strong></p>
+<p>That distinction matters.</p>
+<h2 id="micromanagement-creates-dependency-not-accountability">Micromanagement creates dependency, not accountability</h2>
+<p>One of the biggest misconceptions in management is that more oversight automatically translates into better accountability.</p>
+<p>It doesn't.</p>
+<p>When people are constantly instructed on what to do, how to do it, when to do it, and whom to consult, they gradually stop exercising independent judgment.</p>
+<p>They become comfortable executing instructions rather than owning outcomes.</p>
+<p>Over time, a predictable pattern emerges:</p>
+<ul>
+<li>People escalate decisions they are perfectly capable of making.</li>
+<li>Managers become bottlenecks for routine activities.</li>
+<li>Teams optimize for keeping the manager informed rather than delivering meaningful outcomes.</li>
+<li>Employees avoid taking risks because independent decisions might attract criticism.</li>
+<li>Managers become increasingly overwhelmed because everything depends on them.</li>
+</ul>
+<p>Ironically, the manager who believes they are improving accountability may actually be weakening it.</p>
+<p>I believe accountability should come with ownership.</p>
+<p>If I expect someone to be accountable for an outcome, I must also give them the authority, context, and resources to influence that outcome.</p>
+<p>Holding someone responsible for results while retaining control over every decision is not empowerment. It is an organizational contradiction.</p>
+<h2 id="leadership-means-creating-clarity-not-providing-constant-instructions">Leadership means creating clarity, not providing constant instructions</h2>
+<p>Imagine assigning a team the responsibility of improving vulnerability remediation across an enterprise technology environment.</p>
+<p>A micromanaging approach might involve daily instructions about which vulnerabilities to address, who should work on them, what sequence to follow, and how every remediation activity should be executed.</p>
+<p>An enabling leader would approach the problem differently.</p>
+<p>They would establish the business objective, define risk-based priorities, agree on remediation timelines and service-level expectations, make ownership explicit, and ensure the team has the necessary tools and support.</p>
+<p>For example, the leader might establish a clear expectation that critical vulnerabilities must be addressed within defined timelines and that supported technology versions must remain within an agreed upgrade threshold.</p>
+<p>The team then determines how best to achieve those objectives.</p>
+<p>They identify dependencies, coordinate with application owners, plan remediation waves, automate repetitive activities, and proactively escalate blockers.</p>
+<p>The leader reviews outcomes, challenges delays, questions ineffective approaches, and helps resolve issues beyond the team's authority.</p>
+<p>Notice what has changed.</p>
+<p>The leader hasn't reduced accountability or lowered expectations. They have simply shifted their attention from controlling activities to enabling outcomes.</p>
+<p><strong>Clear expectations create direction. Autonomy creates ownership. Accountability ensures results.</strong></p>
+<p>All three are necessary.</p>
+<h2 id="being-available-is-not-the-same-as-being-involved-in-everything">Being available is not the same as being involved in everything</h2>
+<p>I strongly believe leaders should remain accessible to their teams.</p>
+<p>People should feel comfortable approaching their managers with challenges, disagreements, ideas, and difficult decisions.</p>
+<p>However, accessibility should not become dependency.</p>
+<p>There is a difference between a team member seeking guidance and a team member seeking permission for every action.</p>
+<p>For example, if an architect approaches me with two possible technology solutions, I would rather understand their evaluation, trade-offs, recommendation, and reasoning than immediately prescribe which solution they should implement.</p>
+<p>I might challenge their assumptions. I might ask questions they haven't considered. I might disagree with their recommendation.</p>
+<p>But the objective should be to improve their thinking and decision-making capability, not demonstrate that I know more than they do.</p>
+<p>Sometimes, the best thing a leader can do is ask one more question instead of providing one more instruction.</p>
+<p>This is particularly important when building the next generation of technical and organizational leaders.</p>
+<p>If every difficult decision continues to come back to the same manager, the organization hasn't developed leadership capacity. It has simply created a dependency on one individual.</p>
+<h2 id="trust-doesnt-mean-the-absence-of-governance">Trust doesn't mean the absence of governance</h2>
+<p>There is another misconception worth addressing.</p>
+<p>Empowering teams doesn't mean allowing everyone to operate independently without structure, standards, or oversight.</p>
+<p>That would be a recipe for inconsistency.</p>
+<p>In technology organizations, architecture standards, security controls, operational governance, financial discipline, and engineering practices are essential.</p>
+<p>The question is not whether governance should exist. The question is how it should work.</p>
+<p>For instance, an architecture review board should establish guardrails, ensure alignment with enterprise principles, identify risks, and challenge design decisions.</p>
+<p>It should not become a mechanism where every engineering decision requires a committee's approval.</p>
+<p>Similarly, engineering standards should guide teams toward consistency without eliminating their ability to innovate.</p>
+<p>I see leadership as establishing the boundaries within which teams can operate confidently.</p>
+<p>Within those boundaries, teams should have the freedom to make decisions, experiment, learn, and improve.</p>
+<p>Trust and governance are not opposites. Good governance makes responsible autonomy possible.</p>
+<h2 id="a-leaders-success-is-measured-by-what-happens-in-their-absence">A leader's success is measured by what happens in their absence</h2>
+<p>Here is a question I believe every manager should occasionally ask themselves:</p>
+<p><strong>If I were unavailable for the next two weeks, would my team continue to operate effectively?</strong></p>
+<p>Not whether they would survive two weeks by simply waiting for me to return.</p>
+<p>Would they continue making decisions? Would they resolve problems? Would they manage stakeholders? Would they maintain operational commitments? Would they know when and how to escalate something genuinely requiring leadership intervention?</p>
+<p>If the answer is no, there is an opportunity to rethink how the team is being led.</p>
+<p>Perhaps responsibilities are unclear. Perhaps decision-making authority has never been delegated. Perhaps people have not been given enough opportunities to develop their judgment.</p>
+<p>Or perhaps the manager has unintentionally made themselves indispensable.</p>
+<p>I don't consider being indispensable a leadership achievement.</p>
+<p>I consider creating an organization that can perform, adapt, and grow without depending on one individual a much greater achievement.</p>
+<p>This also changes how I think about delegation.</p>
+<p>Delegation isn't simply distributing tasks to reduce a manager's workload. It is transferring ownership, developing judgment, and creating opportunities for people to grow.</p>
+<p>A leader should deliberately create space for others to lead.</p>
+<p>That means allowing people to make decisions, occasionally make mistakes, learn from those mistakes, and become better at what they do.</p>
+<p>Of course, the leader remains accountable for the environment, the guardrails, and the overall direction. Empowerment is not an excuse to walk away from responsibility.</p>
+<p>It is a commitment to develop responsibility in others.</p>
+<h2 id="my-perspective-leadership-is-about-multiplying-capability">My perspective: Leadership is about multiplying capability</h2>
+<p>I have come to believe that leadership effectiveness should not be measured by how many decisions a manager makes, how many meetings they attend, or how many activities they personally oversee.</p>
+<p>It should be measured by how much capability they create around them.</p>
+<p>A good leader should make their team stronger, not more dependent.</p>
+<p>They should make decision-making faster, not centralize it.</p>
+<p>They should create confidence, not fear of making mistakes.</p>
+<p>They should develop people who can challenge ideas, take ownership, and eventually lead others.</p>
+<p>And perhaps most importantly, they should recognize that their role changes as the organization matures.</p>
+<p>Early in a team's development, people may need more direction, structure, and hands-on guidance. As their experience and confidence grow, the leader must consciously step back and create room for greater ownership.</p>
+<p>Continuing to operate with the same level of control regardless of the team's maturity is not effective leadership.</p>
+<p>It is an inability to evolve as a leader.</p>
+<p>I would rather have a team that challenges my thinking, makes informed decisions, takes accountability, and occasionally disagrees with me than a team that agrees with everything I say and waits for my next instruction.</p>
+<p>Because ultimately, leadership isn't about having the smartest person in the room make every decision.</p>
+<p>It is about creating a room full of capable people who can make great decisions together.</p>
+<p><strong>My definition of leadership is simple: Give people direction, provide them with the tools and context to succeed, establish the boundaries within which they can operate, trust them to deliver, and stand behind them when they need support.</strong></p>
+<p>Don't build a team that needs you for everything.</p>
+<p>Build a team that becomes better because of you.</p>
+<hr>
+<p><em>Leadership is not about being the person everyone waits for. It is about building an environment where people have the confidence and capability to move forward without waiting.</em></p>c:["$","article",null,{"className":"article container","children":[["$","$L7",null,{"className":"back-link","href":"/","children":"← Back to home"}],["$","header",null,{"className":"article-header","children":[["$","$L7",null,{"className":"eyebrow","href":"/category/engineering-leadership/","children":"Engineering Leadership"}],["$","h1",null,{"children":"Leadership Is Not Micromanagement. It Is the Art of Enabling People."}],["$","p",null,{"className":"article-deck","children":"The true measure of leadership isn't how much control you have over your team. It's how effectively your team performs without needing your constant involvement."}],["$","div",null,{"className":"article-byline","children":[["$","span",null,{"children":"STACK & STRATEGY"}],["$","time",null,{"dateTime":"2026-11-17","children":"17 November 2026"}],["$","span",null,{"children":"8 min read"}]]}],"$undefined"]}],"$undefined",["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":["$","div",null,{"className":"sidebar-sticky","children":[["$","span",null,{"className":"eyebrow","children":"In this article"}],["$","span",null,{"className":"sidebar-rule"}],["$","$L7",null,{"className":"sidebar-category","href":"/category/engineering-leadership/","children":"Engineering Leadership"}],["$","ol",null,{"className":"toc","children":[["$","li","the-difference-between-managing-work-and-enabling-people",{"children":["$","a",null,{"href":"#the-difference-between-managing-work-and-enabling-people","children":"The difference between managing work and enabling people"}]}],["$","li","micromanagement-creates-dependency-not-accountability",{"children":["$","a",null,{"href":"#micromanagement-creates-dependency-not-accountability","children":"Micromanagement creates dependency, not accountability"}]}],["$","li","leadership-means-creating-clarity-not-providing-constant-instructions",{"children":["$","a",null,{"href":"#leadership-means-creating-clarity-not-providing-constant-instructions","children":"Leadership means creating clarity, not providing constant instructions"}]}],["$","li","being-available-is-not-the-same-as-being-involved-in-everything",{"children":["$","a",null,{"href":"#being-available-is-not-the-same-as-being-involved-in-everything","children":"Being available is not the same as being involved in everything"}]}],["$","li","trust-doesnt-mean-the-absence-of-governance",{"children":["$","a",null,{"href":"#trust-doesnt-mean-the-absence-of-governance","children":"Trust doesn't mean the absence of governance"}]}],["$","li","a-leaders-success-is-measured-by-what-happens-in-their-absence",{"children":["$","a",null,{"href":"#a-leaders-success-is-measured-by-what-happens-in-their-absence","children":"A leader's success is measured by what happens in their absence"}]}],["$","li","my-perspective-leadership-is-about-multiplying-capability",{"children":["$","a",null,{"href":"#my-perspective-leadership-is-about-multiplying-capability","children":"My perspective: Leadership is about multiplying capability"}]}]]}],["$","div",null,{"className":"tag-list","children":[["$","span","leadership",{"children":"leadership"}],["$","span","delegation",{"children":"delegation"}],["$","span","accountability",{"children":"accountability"}],["$","span","governance",{"children":"governance"}]]}]]}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$17"}}]]}],"$L18","$L19","$L1a"]}]
+1b:I[24170,["$2","$6"],"default"]
+18:["$","div",null,{"className":"article-end","children":[["$","span",null,{"children":"END OF ARTICLE"}],["$","$L7",null,{"href":"/search/","children":"Explore more thinking ↗"}]]}]
+19:["$","section",null,{"className":"article-discussion","aria-labelledby":"discussion-title","children":[["$","div",null,{"className":"about-label","children":"DISCUSSION"}],["$","div",null,{"children":[["$","h2",null,{"id":"discussion-title","children":"Reactions & comments"}],["$","p",null,{"className":"discussion-note","children":"Sign in with GitHub to react or join the conversation."}],["$","$L1b",null,{"slug":"leadership-enabling-not-micromanaging"}]]}]]}]
+1a:["$","section",null,{"className":"related-section","children":[["$","div",null,{"className":"section-heading","children":["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"Keep reading"}],["$","h2",null,{"children":"Related thinking"}]]}]}],["$","div",null,{"className":"post-grid","children":[["$","article","delegation-is-not-dumping-work",{"className":"post-card","children":[["$","div",null,{"className":"post-meta","children":[["$","span",null,{"className":"eyebrow","children":"Engineering Leadership"}],["$","span",null,{"children":"17 Nov 2026"}],false]}],["$","h3",null,{"children":["$","$L7",null,{"href":"/articles/delegation-is-not-dumping-work/","children":"Delegation Is Not Dumping Work: The Difference Between Assigning Tasks and Transferring Ownership"}]}],["$","p",null,{"children":"If you delegate responsibility without authority, context, and support, you haven't empowered someone. You've simply transferred the burden."}],["$","div",null,{"className":"card-bottom","children":[["$","span",null,{"children":"6 min read"}],["$","$L7",null,{"className":"text-link","href":"/articles/delegation-is-not-dumping-work/","aria-hidden":true,"tabIndex":-1,"children":["Read article ",["$","span",null,{"children":"↗"}]]}]]}]]}],["$","article","hero-syndrome-in-leadership",{"className":"post-card","children":[["$","div",null,{"className":"post-meta","children":[["$","span",null,{"className":"eyebrow","children":"Engineering Leadership"}],["$","span",null,{"children":"17 Nov 2026"}],false]}],["$","h3",null,{"children":["$","$L7",null,{"href":"/articles/hero-syndrome-in-leadership/","children":"The Hero Syndrome in Leadership: When Being Indispensable Becomes the Problem"}]}],["$","p",null,{"children":"The best leaders don't make themselves indispensable. They build teams that don't need them to be involved in everything."}],["$","div",null,{"className":"card-bottom","children":[["$","span",null,{"children":"6 min read"}],["$","$L7",null,{"className":"text-link","href":"/articles/hero-syndrome-in-leadership/","aria-hidden":true,"tabIndex":-1,"children":["Read article ",["$","span",null,{"children":"↗"}]]}]]}]]}],["$","article","when-your-team-stops-thinking-itself",{"className":"post-card","children":[["$","div",null,{"className":"post-meta","children":[["$","span",null,{"className":"eyebrow","children":"Engineering Leadership"}],["$","span",null,{"children":"17 Nov 2026"}],false]}],["$","h3",null,{"children":["$","$L7",null,{"href":"/articles/when-your-team-stops-thinking-itself/","children":"When Your Team Stops Thinking for Itself: The Hidden Cost of Excessive Control"}]}],["$","p",null,{"children":"When people stop making decisions, stop challenging ideas, and start waiting for instructions, don't immediately question their capability. First, examine the environment in which they are expected to work."}],["$","div",null,{"className":"card-bottom","children":[["$","span",null,{"children":"8 min read"}],["$","$L7",null,{"className":"text-link","href":"/articles/when-your-team-stops-thinking-itself/","aria-hidden":true,"tabIndex":-1,"children":["Read article ",["$","span",null,{"children":"↗"}]]}]]}]]}]]}]]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f8f9fb"}]]
+1c:I[27201,["$2"],"IconMark"]
+f:null
+15:[["$","title","0",{"children":"Leadership Is Not Micromanagement. It Is the Art of Enabling People. — Stack & Strategy"}],["$","meta","1",{"name":"description","content":"The true measure of leadership isn't how much control you have over your team. It's how effectively your team performs without needing your constant involvement."}],["$","meta","2",{"name":"author","content":"Stack & Strategy"}],["$","link","3",{"rel":"canonical","href":"https://stackandstrategy.in/articles/leadership-enabling-not-micromanaging/"}],["$","meta","4",{"property":"og:title","content":"Leadership Is Not Micromanagement. It Is the Art of Enabling People."}],["$","meta","5",{"property":"og:description","content":"The true measure of leadership isn't how much control you have over your team. It's how effectively your team performs without needing your constant involvement."}],["$","meta","6",{"property":"og:url","content":"https://stackandstrategy.in/articles/leadership-enabling-not-micromanaging/"}],["$","meta","7",{"property":"og:type","content":"article"}],["$","meta","8",{"property":"article:published_time","content":"2026-11-17"}],["$","meta","9",{"property":"article:author","content":"Stack & Strategy"}],["$","meta","10",{"property":"article:section","content":"Engineering Leadership"}],["$","meta","11",{"property":"article:tag","content":"leadership"}],["$","meta","12",{"property":"article:tag","content":"delegation"}],["$","meta","13",{"property":"article:tag","content":"accountability"}],["$","meta","14",{"property":"article:tag","content":"governance"}],["$","meta","15",{"name":"twitter:card","content":"summary"}],["$","meta","16",{"name":"twitter:title","content":"Leadership Is Not Micromanagement. It Is the Art of Enabling People."}],["$","meta","17",{"name":"twitter:description","content":"The true measure of leadership isn't how much control you have over your team. It's how effectively your team performs without needing your constant involvement."}],["$","link","18",{"rel":"icon","href":"/icon.svg?icon.3mlbcdlh808b4.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1c","19",{}]]

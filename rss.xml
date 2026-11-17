@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Stack &amp; Strategy</title>
+  <link>https://stackandstrategy.in/</link>
+  <description>Independent perspectives on AI engineering, enterprise architecture, technology strategy, and engineering leadership.</description>
+  <language>en</language>
+  <item>
+    <title>Architecture Is a Business Capability, Not a Diagram</title>
+    <link>https://stackandstrategy.in/articles/architecture-is-a-business-capability/</link>
+    <guid>https://stackandstrategy.in/articles/architecture-is-a-business-capability/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A useful architecture practice connects technology choices to business outcomes, operational realities, and the ability to change. Diagrams are a by-product, not the point.</description>
+    <category>Enterprise Architecture</category>
+  </item>
+  <item>
+    <title>Delegation Is Not Dumping Work: The Difference Between Assigning Tasks and Transferring Ownership</title>
+    <link>https://stackandstrategy.in/articles/delegation-is-not-dumping-work/</link>
+    <guid>https://stackandstrategy.in/articles/delegation-is-not-dumping-work/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>If you delegate responsibility without authority, context, and support, you haven't empowered someone. You've simply transferred the burden.</description>
+    <category>Engineering Leadership</category>
+  </item>
+  <item>
+    <title>Leadership Is Not Micromanagement. It Is the Art of Enabling People.</title>
+    <link>https://stackandstrategy.in/articles/leadership-enabling-not-micromanaging/</link>
+    <guid>https://stackandstrategy.in/articles/leadership-enabling-not-micromanaging/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The true measure of leadership isn't how much control you have over your team. It's how effectively your team performs without needing your constant involvement.</description>
+    <category>Engineering Leadership</category>
+  </item>
+  <item>
+    <title>The Hero Syndrome in Leadership: When Being Indispensable Becomes the Problem</title>
+    <link>https://stackandstrategy.in/articles/hero-syndrome-in-leadership/</link>
+    <guid>https://stackandstrategy.in/articles/hero-syndrome-in-leadership/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The best leaders don't make themselves indispensable. They build teams that don't need them to be involved in everything.</description>
+    <category>Engineering Leadership</category>
+  </item>
+  <item>
+    <title>When Your Team Stops Thinking for Itself: The Hidden Cost of Excessive Control</title>
+    <link>https://stackandstrategy.in/articles/when-your-team-stops-thinking-itself/</link>
+    <guid>https://stackandstrategy.in/articles/when-your-team-stops-thinking-itself/</guid>
+    <pubDate>Tue, 17 Nov 2026 00:00:00 GMT</pubDate>
+    <description>When people stop making decisions, stop challenging ideas, and start waiting for instructions, don't immediately question their capability. First, examine the environment in which they are expected to work.</description>
+    <category>Engineering Leadership</category>
+  </item>
+  <item>
+    <title>AI Engineering Begins Where the Demo Ends</title>
+    <link>https://stackandstrategy.in/articles/ai-engineering-beyond-the-demo/</link>
+    <guid>https://stackandstrategy.in/articles/ai-engineering-beyond-the-demo/</guid>
+    <pubDate>Thu, 12 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A compelling prototype is a starting point, not evidence. Reliable AI products need evaluation, security, observability, cost controls, and clear failure behaviour.</description>
+    <category>AI Engineering</category>
+  </item>
+  <item>
+    <title>The Engineering Leadership Multiplier</title>
+    <link>https://stackandstrategy.in/articles/the-engineering-leadership-multiplier/</link>
+    <guid>https://stackandstrategy.in/articles/the-engineering-leadership-multiplier/</guid>
+    <pubDate>Sun, 08 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A leader's impact is measured less by personal heroics and more by the decisions, ownership, and leadership capability they build into the organization.</description>
+    <category>Engineering Leadership</category>
+  </item>
+  <item>
+    <title>Technology Strategy Is the Discipline of Trade-offs</title>
+    <link>https://stackandstrategy.in/articles/technology-strategy-is-about-tradeoffs/</link>
+    <guid>https://stackandstrategy.in/articles/technology-strategy-is-about-tradeoffs/</guid>
+    <pubDate>Tue, 03 Nov 2026 00:00:00 GMT</pubDate>
+    <description>A strategy is not a list of technologies to adopt. It is a coherent set of choices about where to invest, what to simplify, and what not to do.</description>
+    <category>Technology Strategy</category>
+  </item>
+</channel>
+</rss>
