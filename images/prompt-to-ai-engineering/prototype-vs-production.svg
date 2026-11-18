@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 560" width="800" height="560" role="img" aria-labelledby="t d">
+<title id="t">Prototype vs production AI</title>
+<desc id="d">A prototype is a four-step flow from question to chat response. In production the same chat window sits on top of identity, retrieval quality, grounding, resilience, cost control, evaluation, observability and ownership.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#315f91"/></marker><marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a94a1"/></marker></defs>
+<rect x="0.5" y="0.5" width="799" height="559" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="32" y="42" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#315f91" text-anchor="start" letter-spacing="1.2">THE ILLUSION OF SIMPLICITY</text>
+<text x="32" y="70" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#17202c" text-anchor="start">Same chat window. Very different system.</text>
+<rect x="32.5" y="100.5" width="219" height="399" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<text x="48" y="126" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#8a94a1" text-anchor="start" letter-spacing="1.2">PROTOTYPE</text>
+<rect x="52.5" y="146.5" width="179" height="43" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="142" y="173" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#17202c" text-anchor="middle">User question</text>
+<line x1="142" y1="190" x2="142" y2="216" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="52.5" y="218.5" width="179" height="43" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="142" y="245" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#17202c" text-anchor="middle">Prompt + documents</text>
+<line x1="142" y1="262" x2="142" y2="288" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="52.5" y="290.5" width="179" height="43" rx="0" fill="#e3ecf6" stroke="#d5dce5" stroke-width="1"/>
+<text x="142" y="317" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#17202c" text-anchor="middle">Language model</text>
+<line x1="142" y1="334" x2="142" y2="360" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="52.5" y="362.5" width="179" height="43" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="142" y="389" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#17202c" text-anchor="middle">Chat response</text>
+<text x="52" y="448" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#2f7d5b" text-anchor="start">✓  Works in a demo</text>
+<text x="52" y="472" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#2f7d5b" text-anchor="start">✓  Easy to get started</text>
+<rect x="268.5" y="100.5" width="499" height="399" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="284" y="126" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#315f91" text-anchor="start" letter-spacing="1.2">PRODUCTION</text>
+<rect x="284.5" y="146.5" width="149" height="43" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="359" y="173" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#17202c" text-anchor="middle">User question</text>
+<line x1="434" y1="168" x2="476" y2="168" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="478.5" y="146.5" width="149" height="43" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="553" y="173" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="600" fill="#17202c" text-anchor="middle">Trusted answer</text>
+<text x="752" y="173" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#8a94a1" text-anchor="end" font-style="italic">What users see</text>
+<line x1="284" y1="210" x2="752" y2="210" stroke="#9bb8d4" stroke-width="1" stroke-dasharray="4 4"/>
+<text x="284" y="230" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#8a94a1" text-anchor="start" letter-spacing="1.2">WHAT HAS TO BE ENGINEERED UNDERNEATH</text>
+<rect x="284.5" y="244.5" width="227" height="51" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<rect x="284" y="244" width="3" height="52" fill="#315f91"/>
+<text x="298" y="265" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Identity &amp; access</text>
+<text x="298" y="283" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Can this user see this source?</text>
+<rect x="524.5" y="244.5" width="227" height="51" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<rect x="524" y="244" width="3" height="52" fill="#315f91"/>
+<text x="538" y="265" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Retrieval quality</text>
+<text x="538" y="283" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Is the context current?</text>
+<rect x="284.5" y="306.5" width="227" height="51" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<rect x="284" y="306" width="3" height="52" fill="#315f91"/>
+<text x="298" y="327" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Grounding &amp; validation</text>
+<text x="298" y="345" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Is the answer supported?</text>
+<rect x="524.5" y="306.5" width="227" height="51" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<rect x="524" y="306" width="3" height="52" fill="#315f91"/>
+<text x="538" y="327" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Resilience</text>
+<text x="538" y="345" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">What if the provider fails?</text>
+<rect x="284.5" y="368.5" width="227" height="51" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<rect x="284" y="368" width="3" height="52" fill="#315f91"/>
+<text x="298" y="389" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Cost control</text>
+<text x="298" y="407" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">What does it cost at scale?</text>
+<rect x="524.5" y="368.5" width="227" height="51" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<rect x="524" y="368" width="3" height="52" fill="#315f91"/>
+<text x="538" y="389" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Evaluation</text>
+<text x="538" y="407" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Is it consistently correct?</text>
+<rect x="284.5" y="430.5" width="227" height="51" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<rect x="284" y="430" width="3" height="52" fill="#315f91"/>
+<text x="298" y="451" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Observability</text>
+<text x="298" y="469" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Can we see what happened?</text>
+<rect x="524.5" y="430.5" width="227" height="51" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<rect x="524" y="430" width="3" height="52" fill="#315f91"/>
+<text x="538" y="451" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Ownership</text>
+<text x="538" y="469" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Who owns a wrong answer?</text>
+<text x="400" y="532" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#687383" text-anchor="middle" font-style="italic">AI can simplify the interaction, but it does not eliminate the engineering complexity underneath it.</text>
+</svg>

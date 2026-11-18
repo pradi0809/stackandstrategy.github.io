@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 630" width="800" height="630" role="img" aria-labelledby="t d">
+<title id="t">Enterprise AI platform architecture</title>
+<desc id="d">Product teams build AI applications on golden paths and self-service, backed by shared platform capabilities: model gateway, retrieval, prompt management, evaluation, tool registry and guardrails, on a foundation of models, enterprise data and cloud infrastructure, with identity, security, observability and governance across every layer.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#315f91"/></marker><marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a94a1"/></marker></defs>
+<rect x="0.5" y="0.5" width="799" height="629" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="32" y="42" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#315f91" text-anchor="start" letter-spacing="1.2">FROM INDIVIDUAL PRODUCTIVITY TO ENTERPRISE CAPABILITY</text>
+<text x="32" y="70" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#17202c" text-anchor="start">A shared AI platform, not a central bottleneck.</text>
+<rect x="32.5" y="96.5" width="599" height="93" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="48" y="120" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#8a94a1" text-anchor="start" letter-spacing="1.2">PRODUCT TEAMS &amp; AI APPLICATIONS</text>
+<rect x="48.5" y="134.5" width="133" height="39" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<text x="115" y="159" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#17202c" text-anchor="middle">Service assistant</text>
+<rect x="192.5" y="134.5" width="133" height="39" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<text x="259" y="159" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#17202c" text-anchor="middle">Developer copilot</text>
+<rect x="336.5" y="134.5" width="133" height="39" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<text x="403" y="159" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#17202c" text-anchor="middle">Knowledge assistant</text>
+<rect x="480.5" y="134.5" width="133" height="39" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<text x="547" y="159" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="500" fill="#17202c" text-anchor="middle">Document processing</text>
+<rect x="32.5" y="200.5" width="599" height="49" rx="0" fill="#e3ecf6" stroke="#9bb8d4" stroke-width="1"/>
+<text x="48" y="230" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#172b42" text-anchor="start">Golden paths &amp; self-service</text>
+<text x="616" y="230" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#315f91" text-anchor="end">Templates · SDKs · reference architectures</text>
+<rect x="32.5" y="260.5" width="599" height="209" rx="0" fill="#172b42" stroke="#172b42" stroke-width="1"/>
+<text x="48" y="284" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#9bb8d4" text-anchor="start" letter-spacing="1.2">SHARED AI PLATFORM CAPABILITIES</text>
+<rect x="48.5" y="300.5" width="181" height="69" rx="0" fill="#22394f" stroke="#2f4b67" stroke-width="1"/>
+<text x="62" y="329" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="start">Model gateway</text>
+<text x="62" y="349" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9bb8d4" text-anchor="start">Routing, quotas, fallback</text>
+<rect x="240.5" y="300.5" width="181" height="69" rx="0" fill="#22394f" stroke="#2f4b67" stroke-width="1"/>
+<text x="254" y="329" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="start">Retrieval &amp; knowledge</text>
+<text x="254" y="349" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9bb8d4" text-anchor="start">Indexing, search, access</text>
+<rect x="432.5" y="300.5" width="181" height="69" rx="0" fill="#22394f" stroke="#2f4b67" stroke-width="1"/>
+<text x="446" y="329" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="start">Prompt management</text>
+<text x="446" y="349" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9bb8d4" text-anchor="start">Versioned, tested, reused</text>
+<rect x="48.5" y="382.5" width="181" height="69" rx="0" fill="#22394f" stroke="#2f4b67" stroke-width="1"/>
+<text x="62" y="411" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="start">Evaluation service</text>
+<text x="62" y="431" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9bb8d4" text-anchor="start">Shared test sets &amp; scoring</text>
+<rect x="240.5" y="382.5" width="181" height="69" rx="0" fill="#22394f" stroke="#2f4b67" stroke-width="1"/>
+<text x="254" y="411" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="start">Tool &amp; agent registry</text>
+<text x="254" y="431" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9bb8d4" text-anchor="start">Approved actions &amp; APIs</text>
+<rect x="432.5" y="382.5" width="181" height="69" rx="0" fill="#22394f" stroke="#2f4b67" stroke-width="1"/>
+<text x="446" y="411" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#ffffff" text-anchor="start">Guardrails &amp; safety</text>
+<text x="446" y="431" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9bb8d4" text-anchor="start">Input &amp; output policies</text>
+<rect x="32.5" y="480.5" width="599" height="89" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<text x="48" y="504" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#8a94a1" text-anchor="start" letter-spacing="1.2">FOUNDATION</text>
+<rect x="48.5" y="516.5" width="181" height="39" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="139" y="541" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#17202c" text-anchor="middle">Commercial &amp; open models</text>
+<rect x="240.5" y="516.5" width="181" height="39" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="331" y="541" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#17202c" text-anchor="middle">Enterprise data &amp; systems</text>
+<rect x="432.5" y="516.5" width="181" height="39" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="523" y="541" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="600" fill="#17202c" text-anchor="middle">Cloud &amp; infrastructure</text>
+<rect x="648.5" y="96.5" width="119" height="473" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<text x="708" y="122" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#8a94a1" text-anchor="middle" letter-spacing="1.2">ACROSS</text>
+<text x="708" y="138" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#8a94a1" text-anchor="middle" letter-spacing="1.2">EVERY LAYER</text>
+<rect x="660.5" y="168.5" width="95" height="83" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="708" y="206" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#17202c" text-anchor="middle">Identity</text>
+<text x="708" y="224" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#687383" text-anchor="middle">&amp; access</text>
+<rect x="660.5" y="268.5" width="95" height="83" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="708" y="306" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#17202c" text-anchor="middle">Security &amp;</text>
+<text x="708" y="324" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#687383" text-anchor="middle">data protection</text>
+<rect x="660.5" y="368.5" width="95" height="83" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="708" y="406" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#17202c" text-anchor="middle">Observability</text>
+<text x="708" y="424" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#687383" text-anchor="middle">&amp; cost</text>
+<rect x="660.5" y="468.5" width="95" height="83" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="708" y="506" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="700" fill="#17202c" text-anchor="middle">Governance</text>
+<text x="708" y="524" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="11.5" font-weight="400" fill="#687383" text-anchor="middle">&amp; policy</text>
+<text x="400" y="606" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#687383" text-anchor="middle" font-style="italic">Teams shouldn't solve the same foundational problems repeatedly, and the platform shouldn't slow them down.</text>
+</svg>

@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 580" width="800" height="580" role="img" aria-labelledby="t d">
+<title id="t">AI application workflow</title>
+<desc id="d">Demo: request, LLM, response. Engineered workflow: request, identity and access, context retrieval, model orchestration, response validation, business action and customer response, with observability across every stage.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#315f91"/></marker><marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a94a1"/></marker></defs>
+<rect x="0.5" y="0.5" width="799" height="579" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="32" y="42" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#315f91" text-anchor="start" letter-spacing="1.2">FROM PROMPTS TO ENGINEERED WORKFLOWS</text>
+<text x="32" y="70" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#17202c" text-anchor="start">The model recommends. The application decides.</text>
+<rect x="32.5" y="92.5" width="735" height="37" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="48" y="115" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#8a94a1" text-anchor="start" letter-spacing="1.2">DEMO</text>
+<text x="100" y="116" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" fill="#687383" text-anchor="start">Request  →  LLM  →  Response</text>
+<text x="752" y="116" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#8a94a1" text-anchor="end" font-style="italic">A demonstration, not a production architecture</text>
+<rect x="32.5" y="158.5" width="171" height="103" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="46" y="180" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start">01</text>
+<text x="46" y="204" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">Request</text>
+<text x="46" y="226" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Natural-language input</text>
+<text x="46" y="242" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">from a customer</text>
+<rect x="220.5" y="158.5" width="171" height="103" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="234" y="180" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start">02</text>
+<text x="234" y="204" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">Identity &amp; access</text>
+<text x="234" y="226" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Who is asking, and</text>
+<text x="234" y="242" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">what may they see?</text>
+<rect x="408.5" y="158.5" width="171" height="103" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="422" y="180" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start">03</text>
+<text x="422" y="204" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">Context retrieval</text>
+<text x="422" y="226" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Permitted, current,</text>
+<text x="422" y="242" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">relevant information</text>
+<rect x="596.5" y="158.5" width="171" height="103" rx="0" fill="#e3ecf6" stroke="#9bb8d4" stroke-width="1"/>
+<text x="610" y="180" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#315f91" text-anchor="start">04</text>
+<text x="754" y="180" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="9.5" font-weight="400" fill="#315f91" text-anchor="end" letter-spacing="0.8">PROBABILISTIC</text>
+<text x="610" y="204" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">Model orchestration</text>
+<text x="610" y="226" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Choose model, tools</text>
+<text x="610" y="242" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">and instructions</text>
+<line x1="204" y1="210" x2="218" y2="210" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<line x1="392" y1="210" x2="406" y2="210" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<line x1="580" y1="210" x2="594" y2="210" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<line x1="682" y1="262" x2="682" y2="294" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="596.5" y="296.5" width="171" height="103" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="610" y="318" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start">05</text>
+<text x="610" y="342" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">Response validation</text>
+<text x="610" y="364" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Grounded, safe and</text>
+<text x="610" y="380" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">well-formed?</text>
+<rect x="408.5" y="296.5" width="171" height="103" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="422" y="318" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start">06</text>
+<text x="422" y="342" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">Business action</text>
+<text x="422" y="364" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Rules, limits and</text>
+<text x="422" y="380" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">approvals in code</text>
+<rect x="220.5" y="296.5" width="171" height="103" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="234" y="318" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start">07</text>
+<text x="234" y="342" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">Customer response</text>
+<text x="234" y="364" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Answer or action,</text>
+<text x="234" y="380" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">fully traceable</text>
+<line x1="596" y1="348" x2="582" y2="348" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<line x1="408" y1="348" x2="394" y2="348" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="32.5" y="296.5" width="171" height="103" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<rect x="32" y="296" width="3" height="104" fill="#315f91"/>
+<text x="46" y="318" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#315f91" text-anchor="start" letter-spacing="1.2">EXAMPLE: REFUND</text>
+<text x="46" y="340" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#354151" text-anchor="start">Model suggests a refund.</text>
+<text x="46" y="356" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#354151" text-anchor="start">Code checks eligibility,</text>
+<text x="46" y="372" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#354151" text-anchor="start">history, policy and limits</text>
+<text x="46" y="388" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#354151" text-anchor="start">before anything happens.</text>
+<rect x="32.5" y="420.5" width="13" height="13" rx="0" fill="#e3ecf6" stroke="#9bb8d4" stroke-width="1"/>
+<text x="54" y="432" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Model: flexible, probabilistic</text>
+<rect x="290.5" y="420.5" width="13" height="13" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="312" y="432" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Application: deterministic, controlled</text>
+<rect x="32.5" y="466.5" width="735" height="65" rx="0" fill="#172b42" stroke="#172b42" stroke-width="1"/>
+<text x="52" y="494" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="700" fill="#ffffff" text-anchor="start">Observability across every stage</text>
+<text x="52" y="516" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#9bb8d4" text-anchor="start">Traces · token cost · quality scores · security events · business outcome</text>
+<text x="400" y="558" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#687383" text-anchor="middle" font-style="italic">Successful AI engineering combines the flexibility of models with the controls of traditional software.</text>
+</svg>

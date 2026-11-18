@@ -6,6 +6,14 @@
   <description>Independent perspectives on AI engineering, enterprise architecture, technology strategy, and engineering leadership.</description>
   <language>en</language>
   <item>
+    <title>From Prompt Engineering to AI Engineering: Why Building AI Products Requires More Than Good Prompts</title>
+    <link>https://stackandstrategy.in/articles/prompt-engineering-to-ai-engineering/</link>
+    <guid>https://stackandstrategy.in/articles/prompt-engineering-to-ai-engineering/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>The industry is getting better at talking to AI. But building reliable systems around AI requires an entirely different kind of engineering.</description>
+    <category>AI Engineering</category>
+  </item>
+  <item>
     <title>Architecture Is a Business Capability, Not a Diagram</title>
     <link>https://stackandstrategy.in/articles/architecture-is-a-business-capability/</link>
     <guid>https://stackandstrategy.in/articles/architecture-is-a-business-capability/</guid>

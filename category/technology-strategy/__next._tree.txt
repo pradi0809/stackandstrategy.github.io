@@ -1,9 +1,9 @@
-:HL["/_next/static/chunks/33p10d5dkoxhk.css","style"]
+:HL["/_next/static/chunks/2cwq9rak08i0k.css","style"]
 :HL["/_next/static/media/0d3323de857e1fce-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1cb854537fb87eb2-s.p.2jf7bnlf7pqkh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/660acf689794c992-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
-:HL["/_next/static/media/82450a180bcad83c-s.p.0p-wng2nn8o-p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/_next/static/media/86fd170c8543a779-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"category","t":"d","k":"technology-strategy","s":[]},"h":65632,"c":"$Q3"}]]
 1:[["children",{"s":"category","h":131168,"c":"$Q2"}]]
-0:{"b":"z35pZkIXj-V447Lv1AFmv","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"k_LDY8Fl8K9RxdEncspny","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}

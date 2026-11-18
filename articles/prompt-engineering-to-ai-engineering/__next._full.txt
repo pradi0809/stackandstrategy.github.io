@@ -1,0 +1,191 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/40n-2bfde5oea.js"
+3:I[70119,["$2"],"default"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/_next/static/chunks/338dznf914jsj.js"
+7:I[22016,["$2","$6"],""]
+d:I[97367,["$2"],"OutletBoundary"]
+e:"$Sreact.suspense"
+10:"ViewportBoundary"
+11:I[97367,["$2"],"$10"]
+13:"MetadataBoundary"
+14:I[97367,["$2"],"$13"]
+16:I[68027,["$2"],"default",1]
+:HL["/_next/static/chunks/2cwq9rak08i0k.css","style"]
+:HL["/_next/static/media/0d3323de857e1fce-s.p.38hmww4cj4vme.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/1cb854537fb87eb2-s.p.2jf7bnlf7pqkh.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/660acf689794c992-s.p.2_mbdogr7ni8i.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/86fd170c8543a779-s.p.2yee423r7ahpo.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+9:X
+b:[["children",{"s":"__PAGE__","h":512,"d":{"r":["$","$1","c",{"children":["$Lc",[["$","script","script-0",{"src":"/_next/static/chunks/338dznf914jsj.js","async":true,"nonce":"$undefined"}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":false,"v":null}}]]
+a:[["children",{"s":{"n":"slug","t":"d","k":"prompt-engineering-to-ai-engineering","s":[]},"h":66048,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qb"}]]
+8:[["children",{"s":"articles","h":131584,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],"p":false,"v":"$9"},"c":"$Qa"}]]
+0:{"P":null,"c":["","articles","prompt-engineering-to-ai-engineering",""],"q":"","i":false,"t":{"t":{"s":"","h":131600,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2cwq9rak08i0k.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","script","script-0",{"src":"/_next/static/chunks/40n-2bfde5oea.js","async":true,"nonce":"$undefined"}]],["$","html",null,{"lang":"en","className":"PWemFG_variable -YaY6W_variable dwiynG_variable","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$L3",null,{}],["$","main",null,{"id":"main","children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","section",null,{"className":"listing-hero container not-found","children":[["$","p",null,{"className":"eyebrow","children":"Error 404"}],["$","h1",null,{"children":["Page not found",["$","span",null,{"children":"."}]]}],["$","p",null,{"children":"That page doesn't exist, or it may have moved."}],["$","$L7",null,{"className":"button-link","href":"/","children":["Back to the journal ",["$","span",null,{"children":"↗"}]]}]]}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"children":[["$","$L7",null,{"className":"footer-brand","href":"/","children":["Stack & Strategy",["$","span",null,{"children":"."}]]}],["$","p",null,{"children":"Independent thinking for people building what comes next."}]]}],["$","div",null,{"className":"footer-links","children":[["$","$L7",null,{"href":"/about/","children":"About"}],["$","a",null,{"href":"/rss.xml","children":"RSS feed"}],["$","$L7",null,{"href":"/privacy/","children":"Privacy"}],["$","a",null,{"href":"mailto:hello@stackandstrategy.in","children":"Contact"}]]}],["$","div",null,{"className":"copyright","children":["© ",2026," ","Stack & Strategy",". All rights reserved."]}]]}]}]]}]}]]}],"p":false,"v":null},"c":"$Q8"},"h":{"r":["$","$1","h",{"children":[null,["$","$L11",null,{"children":"$L12"}],["$","$L14",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":"$L15"}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":false,"v":null}},"m":"$undefined","G":["$16",[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2cwq9rak08i0k.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]]],"S":true,"r":"$undefined","s":"$undefined","a":"$undefined","l":"$undefined","p":"$undefined","d":"$undefined","b":"k_LDY8Fl8K9RxdEncspny"}
+:HL["/images/prompt-to-ai-engineering/hero.jpg","image"]
+9:C
+17:T4767,<p>There is something interesting happening in software engineering today. Almost everyone seems to be experimenting with AI. Developers are writing prompts, generating code, building prototypes, connecting APIs to language models, and demonstrating applications that would have taken considerably longer to develop just a few years ago.</p>
+<p>The barrier to building something with AI has dropped significantly.</p>
+<p>But I think we are beginning to confuse the ability to build something with AI with the ability to engineer a production-ready AI solution.</p>
+<p>These are two very different things.</p>
+<p>Writing a good prompt is a useful skill. Knowing how to get a language model to produce a particular response is valuable. But neither, by itself, makes someone an AI engineer.</p>
+<p>The real engineering challenge begins when we take that promising prototype and attempt to turn it into something that businesses and customers can depend on.</p>
+<p>And that is where the conversation needs to change.</p>
+<h2 id="the-illusion-of-simplicity">The illusion of simplicity</h2>
+<p>Consider a relatively straightforward use case: building an AI-powered enterprise knowledge assistant.</p>
+<p>The requirement sounds simple enough. Employees should be able to ask questions in natural language and receive answers based on internal organizational documents, policies, and knowledge repositories.</p>
+<p>A typical prototype might involve connecting a language model to a collection of documents, writing a prompt with some instructions, and presenting the response through a chat interface.</p>
+<p>It works. The demonstration is impressive. People start imagining all the possibilities.</p>
+<p>But what happens when the application moves beyond a demonstration?</p>
+<p>What happens when an employee asks a question about a document they are not authorized to access?</p>
+<p>What happens when the retrieved information is incomplete or outdated?</p>
+<p>What happens when the model confidently generates an answer that is not supported by the underlying information?</p>
+<p>What happens when the model provider experiences an outage, response times increase, or token consumption becomes unexpectedly expensive?</p>
+<p>And perhaps more importantly, how do we establish that the application is consistently producing correct and useful answers?</p>
+<p>Suddenly, the problem is no longer about writing a better prompt.</p>
+<p>It becomes a software engineering problem involving architecture, identity, authorization, data quality, integration, observability, resilience, performance, cost management, and governance.</p>
+<p><a href="/images/prompt-to-ai-engineering/prototype-vs-production.svg"><img src="/images/prompt-to-ai-engineering/prototype-vs-production.svg" alt="Prototype vs production AI: the same chat window, but production adds identity, retrieval quality, grounding, resilience, cost control, evaluation, observability and ownership"></a></p>
+<p>This is the distinction I believe we need to recognize.</p>
+<p><strong>AI can simplify the interaction, but it does not eliminate the engineering complexity underneath it.</strong></p>
+<h2 id="from-prompts-to-engineered-workflows">From prompts to engineered workflows</h2>
+<p>Traditional software engineering is built around predictable execution paths.</p>
+<p>We define inputs, implement business rules, process data, and produce outputs. There can certainly be complexity, but we generally have considerable control over how the application behaves.</p>
+<p>AI introduces a different dimension.</p>
+<p>Language models are probabilistic. The same request can produce different responses. Their outputs can be useful, incomplete, inconsistent, or occasionally incorrect.</p>
+<p>We cannot approach these systems with the same assumptions we use when designing conventional business applications.</p>
+<p>Imagine an AI-powered application that processes customer requests.</p>
+<p>A simplistic implementation might look something like this:</p>
+<ol>
+<li>Receive a customer request.</li>
+<li>Send the request to an LLM.</li>
+<li>Display the generated response.</li>
+</ol>
+<p>That is a demonstration, not necessarily a production architecture.</p>
+<p>A more mature implementation needs to understand the customer's identity, retrieve relevant information, apply business rules, determine which tools the model can access, validate the response, and establish whether the result is appropriate for the intended action.</p>
+<p>The workflow becomes something closer to:</p>
+<p><strong>Customer Request → Identity &#x26; Authorization → Context Retrieval → Model Orchestration → Response Validation → Business Action → Observability</strong></p>
+<p><a href="/images/prompt-to-ai-engineering/engineered-workflow.svg"><img src="/images/prompt-to-ai-engineering/engineered-workflow.svg" alt="Engineered AI workflow: request, identity and access, context retrieval, model orchestration, response validation, business action and customer response, with observability across every stage"></a></p>
+<p>Each stage introduces engineering responsibilities.</p>
+<p>For example, the model might recommend issuing a refund. That does not mean the model should independently execute the transaction.</p>
+<p>The application must validate the customer's eligibility, check the transaction history, apply refund policies, and enforce the appropriate authorization before allowing the action.</p>
+<p>The model can help interpret the request and recommend an outcome. The application must retain control over business-critical decisions.</p>
+<p>This distinction is important.</p>
+<p>I believe successful AI engineering will increasingly depend on how effectively we combine the flexibility of language models with the predictability and controls of traditional software systems.</p>
+<h2 id="from-individual-models-to-orchestrated-systems">From individual models to orchestrated systems</h2>
+<p>Another area where I believe our thinking needs to evolve is model selection.</p>
+<p>There is a tendency to approach AI architecture by asking which language model is the best.</p>
+<p>I don't think that is the right starting point.</p>
+<p>The better question is: which model is appropriate for a particular task, considering accuracy, latency, cost, privacy, and operational requirements?</p>
+<p>Not every interaction needs the most powerful model available.</p>
+<p>A simple classification request, structured data extraction, summarization task, or intent identification process may not require the same model capabilities as complex reasoning or multi-step problem solving.</p>
+<p>Using an expensive, high-capability model for every interaction can be an architectural mistake.</p>
+<p>Consider an enterprise application that handles thousands of requests every day.</p>
+<p>Some requests might require basic classification. Others might involve retrieving information from multiple systems, interpreting business context, or generating a detailed recommendation.</p>
+<p>Routing every request through the same model creates unnecessary cost and potentially introduces additional latency.</p>
+<p>A better architecture introduces model orchestration.</p>
+<p>The application can identify the nature of the request and select an appropriate model based on the task, available capabilities, performance requirements, and cost constraints.</p>
+<p>It can also incorporate fallback mechanisms when a particular model or provider becomes unavailable.</p>
+<p><a href="/images/prompt-to-ai-engineering/model-routing.svg"><img src="/images/prompt-to-ai-engineering/model-routing.svg" alt="Model routing architecture: requests pass through an AI gateway and router that selects a small, general, reasoning or private model, with a fallback provider"></a></p>
+<p>This is where concepts such as model routing, inference gateways, model abstraction, and provider independence become important.</p>
+<p>The objective is not to build an unnecessarily complicated AI platform.</p>
+<p>It is to avoid making the entire application dependent on a single model, provider, or inference strategy.</p>
+<p><strong>The model should be a component of the architecture, not the architecture itself.</strong></p>
+<h2 id="from-experimentation-to-production-reliability">From experimentation to production reliability</h2>
+<p>In traditional application engineering, we have spent decades developing practices around availability, scalability, performance, security, and operational excellence.</p>
+<p>We have monitoring, logging, distributed tracing, deployment automation, disaster recovery, and established reliability practices.</p>
+<p>AI applications need these foundations too. But they also introduce new dimensions that conventional application monitoring does not adequately address.</p>
+<p>A service returning HTTP 200 does not necessarily mean the AI application is working correctly.</p>
+<p>The model may have returned a response, but was the response accurate?</p>
+<p>Did the retrieval process find the right information?</p>
+<p>Was the answer grounded in the available context?</p>
+<p>Did the application expose information that the requesting user should not have accessed?</p>
+<p>Did the model consume significantly more tokens than expected?</p>
+<p>Did the response meet the expected latency and quality thresholds?</p>
+<p>These are fundamentally different questions from simply checking whether an API is available.</p>
+<p>I believe AI observability needs to evolve beyond infrastructure and application metrics.</p>
+<p>We need visibility into the complete AI execution lifecycle.</p>
+<p>That includes:</p>
+<ul>
+<li><strong>Model performance:</strong> Response latency, throughput, failures, and availability.</li>
+<li><strong>Cost management:</strong> Token consumption, inference costs, and cost per successful transaction.</li>
+<li><strong>Response quality:</strong> Accuracy, relevance, groundedness, and evaluation results.</li>
+<li><strong>Retrieval effectiveness:</strong> Whether the right information was retrieved and supplied as context.</li>
+<li><strong>Security:</strong> Identity, authorization, sensitive data exposure, and tool access.</li>
+<li><strong>Business outcomes:</strong> Whether the AI interaction actually helped complete the intended business process.</li>
+</ul>
+<p><a href="/images/prompt-to-ai-engineering/ai-observability.svg"><img src="/images/prompt-to-ai-engineering/ai-observability.svg" alt="AI observability architecture: an end-to-end request trace feeds a telemetry and evaluation pipeline covering model performance, cost, response quality, retrieval, security and business outcomes"></a></p>
+<p>There is an important distinction between a system that successfully invokes a model and a system that consistently delivers business value.</p>
+<p>We should engineer for the latter.</p>
+<h2 id="from-model-accuracy-to-business-outcomes">From model accuracy to business outcomes</h2>
+<p>One of the mistakes I see in conversations about AI adoption is the tendency to focus too heavily on the model itself.</p>
+<p>Organizations discuss which model performs better, which benchmark it scores higher on, or which provider offers the most advanced capabilities.</p>
+<p>These are useful considerations, but they are not the ultimate measures of success.</p>
+<p>The real question is whether the solution improves the business process.</p>
+<p>Consider software engineering productivity.</p>
+<p>An AI coding assistant might generate code faster. That sounds like a measurable productivity improvement.</p>
+<p>But what happens if developers spend additional time reviewing incorrect implementations, correcting architectural decisions, fixing security issues, or maintaining code that they do not fully understand?</p>
+<p>Has productivity actually improved?</p>
+<p>The answer cannot be determined by counting generated lines of code or measuring how many prompts developers submit.</p>
+<p>We need to consider the entire engineering lifecycle.</p>
+<p>Are requirements being translated into better implementations? Is development lead time improving? Are defects increasing or decreasing? Is the quality of code improving? Are developers spending more time solving meaningful engineering problems rather than repetitive tasks?</p>
+<p>The same principle applies to enterprise AI applications.</p>
+<p>An AI customer service assistant should not be evaluated simply by how many conversations it handles. We should examine resolution rates, customer satisfaction, escalation rates, accuracy, and the actual cost of serving a customer.</p>
+<p>AI engineering must connect technical performance to business performance.</p>
+<p>Otherwise, we risk building impressive technology without solving meaningful problems.</p>
+<h2 id="from-individual-productivity-to-enterprise-capability">From individual productivity to enterprise capability</h2>
+<p>There is another transition that I believe deserves attention.</p>
+<p>Most organizations begin their AI journey with individual productivity tools.</p>
+<p>Developers use coding assistants. Business users experiment with copilots. Teams explore document summarization, automated reporting, and conversational interfaces.</p>
+<p>These are useful starting points.</p>
+<p>But enterprise adoption requires a broader engineering foundation.</p>
+<p>How do we establish reusable AI capabilities?</p>
+<p>How do we standardize model access, authentication, security, and observability?</p>
+<p>How do we prevent every engineering team from independently building its own model integration, prompt management, and retrieval implementation?</p>
+<p>How do we establish reusable patterns without restricting teams from experimenting and innovating?</p>
+<p>This is where I see a natural connection between AI engineering and platform engineering.</p>
+<p>We have already learned valuable lessons from building internal developer platforms.</p>
+<p>Standardized deployment pipelines, reusable infrastructure, golden paths, self-service capabilities, and centralized operational visibility help engineering teams build and deliver software more consistently.</p>
+<p>The same thinking can be applied to AI.</p>
+<p>Organizations can establish reusable capabilities for model access, inference routing, retrieval, evaluation, security controls, and observability.</p>
+<p><a href="/images/prompt-to-ai-engineering/enterprise-ai-platform.svg"><img src="/images/prompt-to-ai-engineering/enterprise-ai-platform.svg" alt="Enterprise AI platform architecture: product teams build on golden paths and shared platform capabilities, on a foundation of models, enterprise data and cloud, with identity, security, observability and governance across every layer"></a></p>
+<p>Teams should not have to solve the same foundational problems repeatedly.</p>
+<p>At the same time, platform engineering should not become another centralized bottleneck.</p>
+<p>The objective should be to enable teams to build AI-powered applications faster while maintaining consistent engineering standards.</p>
+<p>This is an important architectural and organizational consideration.</p>
+<p>AI adoption cannot scale sustainably through isolated experiments. It needs an engineering operating model.</p>
+<h2 id="so-what-does-ai-engineering-really-mean">So, what does AI engineering really mean?</h2>
+<p>I would describe AI engineering as the discipline of designing, building, integrating, deploying, and operating software systems that use AI capabilities to solve real-world problems reliably and responsibly.</p>
+<p>It brings together several established engineering disciplines:</p>
+<ul>
+<li>Software architecture and application engineering.</li>
+<li>Data engineering and context management.</li>
+<li>Machine learning and model integration.</li>
+<li>Distributed systems and orchestration.</li>
+<li>Platform engineering and infrastructure.</li>
+<li>Security, governance, and operational excellence.</li>
+<li>Quality engineering and continuous evaluation.</li>
+</ul>
+<p>It does not mean every software engineer needs to become a machine learning researcher.</p>
+<p>Nor does it mean every application needs autonomous agents, complex RAG pipelines, or multiple language models.</p>
+<p>Sometimes a traditional API, a well-designed database query, or a deterministic business rule is still the better solution.</p>
+<p>Good engineering is about choosing the right approach for the problem, not introducing AI simply because it is available.</p>
+<p>That judgment becomes even more important as AI capabilities continue to evolve.</p>
+<h2 id="my-perspective-the-next-engineering-challenge-is-not-building-with-ai-it-is-engineering-around-ai">My perspective: The next engineering challenge is not building with AI. It is engineering around AI.</h2>
+<p>I am genuinely excited about what AI is making possible in software engineering and enterprise technology.</p>
+<p>We are seeing new ways to interact with systems, automate complex workflows, improve developer productivity, and make organizational knowledge more accessible.</p>
+<p>But I also think we need to be careful about equating rapid experimentation with engineering maturity.</p>
+<p>A working prototype is a good beginning. A compelling demonstration is an encouraging milestone. Neither establishes that we have built something ready for enterprise adoption.</p>
+<p>The real test begins when the application encounters unpredictable inputs, incomplete information, security boundaries, integration failures, operational constraints, and real business expectations.</p>
+<p>That is where engineering discipline matters.</p>
+<p>We need architects who understand how AI capabilities fit into broader enterprise systems. We need engineers who understand both traditional software principles and the uncertainty introduced by language models. We need platform teams that can provide reusable foundations. And we need technology leaders who understand that successful AI adoption is as much about operating models, governance, and measurable outcomes as it is about technology.</p>
+<p>Prompt engineering helped us discover what AI can do.</p>
+<p><strong>AI engineering will determine whether we can depend on it.</strong></p>
+<p>And I believe that is where the next chapter of software engineering begins.</p>c:["$","article",null,{"className":"article container","children":[["$","$L7",null,{"className":"back-link","href":"/","children":"← Back to home"}],["$","header",null,{"className":"article-header","children":[["$","$L7",null,{"className":"eyebrow","href":"/category/ai-engineering/","children":"AI Engineering"}],["$","h1",null,{"children":"From Prompt Engineering to AI Engineering: Why Building AI Products Requires More Than Good Prompts"}],["$","p",null,{"className":"article-deck","children":"The industry is getting better at talking to AI. But building reliable systems around AI requires an entirely different kind of engineering."}],["$","div",null,{"className":"article-byline","children":[["$","span",null,{"children":"STACK & STRATEGY"}],["$","time",null,{"dateTime":"2026-11-18","children":"18 November 2026"}],["$","span",null,{"children":"10 min read"}]]}],"$undefined"]}],["$","img",null,{"className":"article-hero","src":"/images/prompt-to-ai-engineering/hero.jpg","alt":""}],["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":["$","div",null,{"className":"sidebar-sticky","children":[["$","span",null,{"className":"eyebrow","children":"In this article"}],["$","span",null,{"className":"sidebar-rule"}],["$","$L7",null,{"className":"sidebar-category","href":"/category/ai-engineering/","children":"AI Engineering"}],["$","ol",null,{"className":"toc","children":[["$","li","the-illusion-of-simplicity",{"children":["$","a",null,{"href":"#the-illusion-of-simplicity","children":"The illusion of simplicity"}]}],["$","li","from-prompts-to-engineered-workflows",{"children":["$","a",null,{"href":"#from-prompts-to-engineered-workflows","children":"From prompts to engineered workflows"}]}],["$","li","from-individual-models-to-orchestrated-systems",{"children":["$","a",null,{"href":"#from-individual-models-to-orchestrated-systems","children":"From individual models to orchestrated systems"}]}],["$","li","from-experimentation-to-production-reliability",{"children":["$","a",null,{"href":"#from-experimentation-to-production-reliability","children":"From experimentation to production reliability"}]}],["$","li","from-model-accuracy-to-business-outcomes",{"children":["$","a",null,{"href":"#from-model-accuracy-to-business-outcomes","children":"From model accuracy to business outcomes"}]}],["$","li","from-individual-productivity-to-enterprise-capability",{"children":["$","a",null,{"href":"#from-individual-productivity-to-enterprise-capability","children":"From individual productivity to enterprise capability"}]}],["$","li","so-what-does-ai-engineering-really-mean",{"children":["$","a",null,{"href":"#so-what-does-ai-engineering-really-mean","children":"So, what does AI engineering really mean?"}]}],["$","li","my-perspective-the-next-engineering-challenge-is-not-building-with-ai-it-is-engineering-around-ai",{"children":["$","a",null,{"href":"#my-perspective-the-next-engineering-challenge-is-not-building-with-ai-it-is-engineering-around-ai","children":"My perspective: The next engineering challenge is not building with AI. It is engineering around AI."}]}]]}],["$","div",null,{"className":"tag-list","children":[["$","span","AI",{"children":"AI"}],["$","span","AI engineering",{"children":"AI engineering"}],["$","span","LLM",{"children":"LLM"}],["$","span","platform engineering",{"children":"platform engineering"}],["$","span","observability",{"children":"observability"}]]}]]}]}],["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$17"}}]]}],"$L18","$L19","$L1a"]}]
+1b:I[24170,["$2","$6"],"default"]
+18:["$","div",null,{"className":"article-end","children":[["$","span",null,{"children":"END OF ARTICLE"}],["$","$L7",null,{"href":"/search/","children":"Explore more thinking ↗"}]]}]
+19:["$","section",null,{"className":"article-discussion","aria-labelledby":"discussion-title","children":[["$","div",null,{"className":"about-label","children":"DISCUSSION"}],["$","div",null,{"children":[["$","h2",null,{"id":"discussion-title","children":"Reactions & comments"}],["$","p",null,{"className":"discussion-note","children":"Sign in with GitHub to react or join the conversation."}],["$","$L1b",null,{"slug":"prompt-engineering-to-ai-engineering"}]]}]]}]
+1a:["$","section",null,{"className":"related-section","children":[["$","div",null,{"className":"section-heading","children":["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"Keep reading"}],["$","h2",null,{"children":"Related thinking"}]]}]}],["$","div",null,{"className":"post-grid","children":[["$","article","ai-engineering-beyond-the-demo",{"className":"post-card","children":[["$","div",null,{"className":"post-meta","children":[["$","span",null,{"className":"eyebrow","children":"AI Engineering"}],["$","span",null,{"children":"12 Nov 2026"}],false]}],["$","h3",null,{"children":["$","$L7",null,{"href":"/articles/ai-engineering-beyond-the-demo/","children":"AI Engineering Begins Where the Demo Ends"}]}],["$","p",null,{"children":"A compelling prototype is a starting point, not evidence. Reliable AI products need evaluation, security, observability, cost controls, and clear failure behaviour."}],["$","div",null,{"className":"card-bottom","children":[["$","span",null,{"children":"6 min read"}],["$","$L7",null,{"className":"text-link","href":"/articles/ai-engineering-beyond-the-demo/","aria-hidden":true,"tabIndex":-1,"children":["Read article ",["$","span",null,{"children":"↗"}]]}]]}]]}],["$","article","architecture-is-a-business-capability",{"className":"post-card","children":[["$","div",null,{"className":"post-meta","children":[["$","span",null,{"className":"eyebrow","children":"Enterprise Architecture"}],["$","span",null,{"children":"17 Nov 2026"}],false]}],["$","h3",null,{"children":["$","$L7",null,{"href":"/articles/architecture-is-a-business-capability/","children":"Architecture Is a Business Capability, Not a Diagram"}]}],["$","p",null,{"children":"A useful architecture practice connects technology choices to business outcomes, operational realities, and the ability to change. Diagrams are a by-product, not the point."}],["$","div",null,{"className":"card-bottom","children":[["$","span",null,{"children":"6 min read"}],["$","$L7",null,{"className":"text-link","href":"/articles/architecture-is-a-business-capability/","aria-hidden":true,"tabIndex":-1,"children":["Read article ",["$","span",null,{"children":"↗"}]]}]]}]]}],["$","article","delegation-is-not-dumping-work",{"className":"post-card","children":[["$","div",null,{"className":"post-meta","children":[["$","span",null,{"className":"eyebrow","children":"Engineering Leadership"}],["$","span",null,{"children":"17 Nov 2026"}],false]}],["$","h3",null,{"children":["$","$L7",null,{"href":"/articles/delegation-is-not-dumping-work/","children":"Delegation Is Not Dumping Work: The Difference Between Assigning Tasks and Transferring Ownership"}]}],["$","p",null,{"children":"If you delegate responsibility without authority, context, and support, you haven't empowered someone. You've simply transferred the burden."}],["$","div",null,{"className":"card-bottom","children":[["$","span",null,{"children":"6 min read"}],["$","$L7",null,{"className":"text-link","href":"/articles/delegation-is-not-dumping-work/","aria-hidden":true,"tabIndex":-1,"children":["Read article ",["$","span",null,{"children":"↗"}]]}]]}]]}]]}]]}]
+12:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f8f9fb"}]]
+1c:I[27201,["$2"],"IconMark"]
+f:null
+15:[["$","title","0",{"children":"From Prompt Engineering to AI Engineering: Why Building AI Products Requires More Than Good Prompts — Stack & Strategy"}],["$","meta","1",{"name":"description","content":"The industry is getting better at talking to AI. But building reliable systems around AI requires an entirely different kind of engineering."}],["$","meta","2",{"name":"author","content":"Stack & Strategy"}],["$","link","3",{"rel":"canonical","href":"https://stackandstrategy.in/articles/prompt-engineering-to-ai-engineering/"}],["$","meta","4",{"property":"og:title","content":"From Prompt Engineering to AI Engineering: Why Building AI Products Requires More Than Good Prompts"}],["$","meta","5",{"property":"og:description","content":"The industry is getting better at talking to AI. But building reliable systems around AI requires an entirely different kind of engineering."}],["$","meta","6",{"property":"og:url","content":"https://stackandstrategy.in/articles/prompt-engineering-to-ai-engineering/"}],["$","meta","7",{"property":"og:image","content":"https://stackandstrategy.in/images/prompt-to-ai-engineering/hero.jpg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2026-11-18"}],["$","meta","10",{"property":"article:author","content":"Stack & Strategy"}],["$","meta","11",{"property":"article:section","content":"AI Engineering"}],["$","meta","12",{"property":"article:tag","content":"AI"}],["$","meta","13",{"property":"article:tag","content":"AI engineering"}],["$","meta","14",{"property":"article:tag","content":"LLM"}],["$","meta","15",{"property":"article:tag","content":"platform engineering"}],["$","meta","16",{"property":"article:tag","content":"observability"}],["$","meta","17",{"name":"twitter:card","content":"summary"}],["$","meta","18",{"name":"twitter:title","content":"From Prompt Engineering to AI Engineering: Why Building AI Products Requires More Than Good Prompts"}],["$","meta","19",{"name":"twitter:description","content":"The industry is getting better at talking to AI. But building reliable systems around AI requires an entirely different kind of engineering."}],["$","meta","20",{"name":"twitter:image","content":"https://stackandstrategy.in/images/prompt-to-ai-engineering/hero.jpg"}],["$","link","21",{"rel":"icon","href":"/icon.svg?icon.3mlbcdlh808b4.svg","sizes":"any","type":"image/svg+xml"}],["$","$L1c","22",{}]]

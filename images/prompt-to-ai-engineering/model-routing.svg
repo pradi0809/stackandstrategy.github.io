@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 540" width="800" height="540" role="img" aria-labelledby="t d">
+<title id="t">Model routing architecture</title>
+<desc id="d">Requests such as intent classification, summarization, multi-step reasoning and sensitive data go through an AI gateway and router, which selects a small, general, reasoning or private model based on cost, latency and privacy, with a fallback provider.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#315f91"/></marker><marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a94a1"/></marker></defs>
+<rect x="0.5" y="0.5" width="799" height="539" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="32" y="42" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#315f91" text-anchor="start" letter-spacing="1.2">FROM INDIVIDUAL MODELS TO ORCHESTRATED SYSTEMS</text>
+<text x="32" y="70" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#17202c" text-anchor="start">Route each task to the right model.</text>
+<text x="32" y="110" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#8a94a1" text-anchor="start" letter-spacing="1.2">REQUESTS</text>
+<text x="562" y="110" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#8a94a1" text-anchor="start" letter-spacing="1.2">MODELS</text>
+<rect x="32.5" y="124.5" width="179" height="55" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="46" y="148" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Classify intent</text>
+<text x="46" y="166" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Route a support ticket</text>
+<line x1="212" y1="152" x2="260" y2="152" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="32.5" y="194.5" width="179" height="55" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="46" y="218" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Summarize</text>
+<text x="46" y="236" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Condense a long policy</text>
+<line x1="212" y1="222" x2="260" y2="222" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="32.5" y="264.5" width="179" height="55" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="46" y="288" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Reason &amp; plan</text>
+<text x="46" y="306" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Multi-step analysis</text>
+<line x1="212" y1="292" x2="260" y2="292" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="32.5" y="334.5" width="179" height="55" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="46" y="358" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Sensitive request</text>
+<text x="46" y="376" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">HR or health data</text>
+<line x1="212" y1="362" x2="260" y2="362" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="562.5" y="124.5" width="205" height="55" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="576" y="148" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Small model</text>
+<text x="754" y="148" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#315f91" text-anchor="end">$</text>
+<text x="576" y="166" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Classification, extraction</text>
+<line x1="512" y1="152" x2="560" y2="152" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="562.5" y="194.5" width="205" height="55" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="576" y="218" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">General model</text>
+<text x="754" y="218" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#315f91" text-anchor="end">$$</text>
+<text x="576" y="236" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Summaries, grounded answers</text>
+<line x1="512" y1="222" x2="560" y2="222" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="562.5" y="264.5" width="205" height="55" rx="0" fill="#e3ecf6" stroke="#d5dce5" stroke-width="1"/>
+<text x="576" y="288" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Reasoning model</text>
+<text x="754" y="288" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#315f91" text-anchor="end">$$$$</text>
+<text x="576" y="306" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Complex multi-step tasks</text>
+<line x1="512" y1="292" x2="560" y2="292" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="562.5" y="334.5" width="205" height="55" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="576" y="358" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Private model</text>
+<text x="754" y="358" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#315f91" text-anchor="end">$$</text>
+<text x="576" y="376" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">Sensitive or regulated data</text>
+<line x1="512" y1="362" x2="560" y2="362" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<rect x="262.5" y="124.5" width="249" height="265" rx="0" fill="#172b42" stroke="#172b42" stroke-width="1"/>
+<text x="282" y="154" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="16" font-weight="700" fill="#ffffff" text-anchor="start">AI gateway &amp; router</text>
+<text x="282" y="174" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#9bb8d4" text-anchor="start">One entry point for every model call</text>
+<line x1="282" y1="188" x2="492" y2="188" stroke="#2c4a66" stroke-width="1"/>
+<circle cx="288" cy="206" r="3" fill="#9bb8d4"/>
+<text x="300" y="210" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#ffffff" text-anchor="start">Task classification</text>
+<circle cx="288" cy="234" r="3" fill="#9bb8d4"/>
+<text x="300" y="238" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#ffffff" text-anchor="start">Policy: cost, latency, privacy</text>
+<circle cx="288" cy="262" r="3" fill="#9bb8d4"/>
+<text x="300" y="266" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#ffffff" text-anchor="start">Authentication &amp; rate limits</text>
+<circle cx="288" cy="290" r="3" fill="#9bb8d4"/>
+<text x="300" y="294" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#ffffff" text-anchor="start">Caching &amp; prompt templates</text>
+<circle cx="288" cy="318" r="3" fill="#9bb8d4"/>
+<text x="300" y="322" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#ffffff" text-anchor="start">Fallback &amp; retries</text>
+<circle cx="288" cy="346" r="3" fill="#9bb8d4"/>
+<text x="300" y="350" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#ffffff" text-anchor="start">Logging &amp; token metering</text>
+<rect x="562.5" y="412.5" width="205" height="55" rx="0" fill="#f8f9fb" stroke="#8a94a1" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="576" y="436" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13.5" font-weight="700" fill="#17202c" text-anchor="start">Fallback provider</text>
+<text x="576" y="454" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12" font-weight="400" fill="#687383" text-anchor="start">When a model is slow or down</text>
+<path d="M 512 372 L 536 372 L 536 440 L 560 440" fill="none" stroke="#8a94a1" stroke-width="1.4" stroke-dasharray="5 4" marker-end="url(#aw)"/>
+<text x="32" y="506" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="11.5" font-weight="400" fill="#8a94a1" text-anchor="start">Relative cost:  $ low  →  $$$$ high</text>
+<text x="768" y="506" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#687383" text-anchor="end" font-style="italic">The model is a component of the architecture, not the architecture itself.</text>
+</svg>
