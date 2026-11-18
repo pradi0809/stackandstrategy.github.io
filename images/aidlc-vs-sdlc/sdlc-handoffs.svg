@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 590" width="800" height="590" role="img" aria-labelledby="t d">
+<title id="t">Every handoff is an interpretation</title>
+<desc id="d">The traditional lifecycle moves from business need to requirements, user stories, technical design, code and tests, with people interpreting each step. A simple requirement to update a delivery address hides many questions about the domain, validation, order lifecycle, integrations, privacy and existing behaviour.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#315f91"/></marker><marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a94a1"/></marker></defs>
+<rect x="0.5" y="0.5" width="799" height="589" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="32" y="42" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#315f91" text-anchor="start" letter-spacing="1.2">THE SDLC: BUILT AROUND HUMAN EXECUTION</text>
+<text x="32" y="70" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#17202c" text-anchor="start">Every handoff is an interpretation.</text>
+<rect x="32.5" y="104.5" width="235" height="45" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="48" y="132" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start">01</text>
+<text x="80" y="133" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">Business need</text>
+<line x1="80" y1="150" x2="80" y2="176" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<text x="94" y="168" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start" font-style="italic">interpretation</text>
+<rect x="32.5" y="178.5" width="235" height="45" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="48" y="206" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start">02</text>
+<text x="80" y="207" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">Requirements</text>
+<line x1="80" y1="224" x2="80" y2="250" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<text x="94" y="242" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start" font-style="italic">interpretation</text>
+<rect x="32.5" y="252.5" width="235" height="45" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="48" y="280" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start">03</text>
+<text x="80" y="281" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">User stories</text>
+<line x1="80" y1="298" x2="80" y2="324" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<text x="94" y="316" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start" font-style="italic">interpretation</text>
+<rect x="32.5" y="326.5" width="235" height="45" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="48" y="354" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start">04</text>
+<text x="80" y="355" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">Technical design</text>
+<line x1="80" y1="372" x2="80" y2="398" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<text x="94" y="390" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start" font-style="italic">interpretation</text>
+<rect x="32.5" y="400.5" width="235" height="45" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="48" y="428" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start">05</text>
+<text x="80" y="429" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">Code</text>
+<line x1="80" y1="446" x2="80" y2="472" stroke="#315f91" stroke-width="1.4" marker-end="url(#a)"/>
+<text x="94" y="464" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start" font-style="italic">interpretation</text>
+<rect x="32.5" y="474.5" width="235" height="45" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="48" y="502" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="400" fill="#8a94a1" text-anchor="start">06</text>
+<text x="80" y="503" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="700" fill="#17202c" text-anchor="start">Tests</text>
+<defs><linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#315f91"/><stop offset="1" stop-color="#315f91" stop-opacity=".12"/></linearGradient></defs>
+<rect x="284" y="104" width="8" height="416" fill="url(#fade)"/>
+<text transform="translate(306 312) rotate(90)" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" fill="#8a94a1" text-anchor="middle" letter-spacing="1.2">SHARED CONTEXT FADES AT EACH STEP</text>
+<rect x="330.5" y="104.5" width="437" height="415" rx="0" fill="#f8f9fb" stroke="#d5dce5" stroke-width="1"/>
+<text x="354" y="134" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#315f91" text-anchor="start" letter-spacing="1.2">ONE REQUIREMENT</text>
+<text x="354" y="168" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#17202c" text-anchor="start">“Allow customers to update</text>
+<text x="354" y="192" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" font-weight="700" fill="#17202c" text-anchor="start">their delivery address.”</text>
+<text x="354" y="234" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#8a94a1" text-anchor="start" letter-spacing="1.2">WHAT THE ENGINEER STILL HAS TO WORK OUT</text>
+<circle cx="360" cy="262" r="3" fill="#315f91"/>
+<text x="374" y="266" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#354151" text-anchor="start">The customer domain and authentication model</text>
+<circle cx="360" cy="292" r="3" fill="#315f91"/>
+<text x="374" y="296" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#354151" text-anchor="start">Address validation rules</text>
+<circle cx="360" cy="322" r="3" fill="#315f91"/>
+<text x="374" y="326" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#354151" text-anchor="start">Where the order is in its lifecycle</text>
+<circle cx="360" cy="352" r="3" fill="#315f91"/>
+<text x="374" y="356" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#354151" text-anchor="start">Downstream integrations to notify</text>
+<circle cx="360" cy="382" r="3" fill="#315f91"/>
+<text x="374" y="386" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#354151" text-anchor="start">Data privacy requirements</text>
+<circle cx="360" cy="412" r="3" fill="#315f91"/>
+<text x="374" y="416" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#354151" text-anchor="start">Impact on existing functionality</text>
+<circle cx="360" cy="442" r="3" fill="#315f91"/>
+<text x="374" y="446" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#354151" text-anchor="start">Existing implementation patterns</text>
+<text x="354" y="494" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#687383" text-anchor="start" font-style="italic">A ticket alone rarely captures all of this.</text>
+<text x="400" y="566" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#687383" text-anchor="middle" font-style="italic">Each transition depends on people translating information, and some of it is lost along the way.</text>
+</svg>

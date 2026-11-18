@@ -6,6 +6,14 @@
   <description>Independent perspectives on AI engineering, enterprise architecture, technology strategy, and engineering leadership.</description>
   <language>en</language>
   <item>
+    <title>AI-DLC vs SDLC: The Future of Software Engineering Is Not About Writing Code Faster. It's About Rethinking How We Build Software.</title>
+    <link>https://stackandstrategy.in/articles/aidlc-vs-sdlc/</link>
+    <guid>https://stackandstrategy.in/articles/aidlc-vs-sdlc/</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 GMT</pubDate>
+    <description>We spent decades optimizing how humans build software. Now that AI can participate in almost every stage of development, perhaps it is time to rethink the development lifecycle itself.</description>
+    <category>AI Engineering</category>
+  </item>
+  <item>
     <title>From Prompt Engineering to AI Engineering: Why Building AI Products Requires More Than Good Prompts</title>
     <link>https://stackandstrategy.in/articles/prompt-engineering-to-ai-engineering/</link>
     <guid>https://stackandstrategy.in/articles/prompt-engineering-to-ai-engineering/</guid>

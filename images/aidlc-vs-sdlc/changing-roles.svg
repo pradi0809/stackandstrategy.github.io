@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500" role="img" aria-labelledby="t d">
+<title id="t">How engineering roles change</title>
+<desc id="d">Engineers spend less time on repetitive implementation and more on understanding problems, validating assumptions and checking behaviour. Architects shift from producing documents to setting context, constraints and decision boundaries for AI agents. Engineering leaders rethink team design, how quality is measured and how accountability is kept.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#315f91"/></marker><marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a94a1"/></marker></defs>
+<rect x="0.5" y="0.5" width="799" height="499" rx="0" fill="#ffffff" stroke="#d5dce5" stroke-width="1"/>
+<text x="32" y="42" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#315f91" text-anchor="start" letter-spacing="1.2">THE ROLE OF ENGINEERS AND ARCHITECTS</text>
+<text x="32" y="70" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="20" font-weight="700" fill="#17202c" text-anchor="start">Judgment moves to where it matters most.</text>
+<text x="32" y="116" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#8a94a1" text-anchor="start" letter-spacing="1.2">ROLE</text>
+<text x="214" y="116" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#8a94a1" text-anchor="start" letter-spacing="1.2">LESS TIME ON</text>
+<text x="500" y="116" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="10.5" font-weight="500" fill="#315f91" text-anchor="start" letter-spacing="1.2">MORE TIME ON</text>
+<line x1="32" y1="128" x2="768" y2="128" stroke="#d5dce5" stroke-width="1"/>
+<text x="32" y="162" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#17202c" text-anchor="start">Engineers</text>
+<text x="214" y="162" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8a94a1" text-anchor="start">−</text>
+<text x="230" y="162" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#687383" text-anchor="start">Repetitive implementation</text>
+<text x="214" y="184" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8a94a1" text-anchor="start">−</text>
+<text x="230" y="184" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#687383" text-anchor="start">Boilerplate and routine fixes</text>
+<rect x="486.5" y="140.5" width="281" height="79" rx="0" fill="#e3ecf6" stroke="#e3ecf6" stroke-width="1"/>
+<text x="500" y="162" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#315f91" text-anchor="start">+</text>
+<text x="518" y="162" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#172b42" text-anchor="start">Understanding the business problem</text>
+<text x="500" y="184" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#315f91" text-anchor="start">+</text>
+<text x="518" y="184" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#172b42" text-anchor="start">Validating assumptions and trade-offs</text>
+<text x="500" y="206" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#315f91" text-anchor="start">+</text>
+<text x="518" y="206" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#172b42" text-anchor="start">Checking systems behave as intended</text>
+<line x1="32" y1="232" x2="768" y2="232" stroke="#d5dce5" stroke-width="1"/>
+<text x="32" y="266" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#17202c" text-anchor="start">Architects</text>
+<text x="214" y="266" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8a94a1" text-anchor="start">−</text>
+<text x="230" y="266" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#687383" text-anchor="start">Producing diagrams and documents</text>
+<rect x="486.5" y="244.5" width="281" height="79" rx="0" fill="#e3ecf6" stroke="#e3ecf6" stroke-width="1"/>
+<text x="500" y="266" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#315f91" text-anchor="start">+</text>
+<text x="518" y="266" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#172b42" text-anchor="start">Setting context and constraints</text>
+<text x="500" y="288" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#315f91" text-anchor="start">+</text>
+<text x="518" y="288" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#172b42" text-anchor="start">Defining patterns for AI agents</text>
+<text x="500" y="310" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#315f91" text-anchor="start">+</text>
+<text x="518" y="310" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#172b42" text-anchor="start">Drawing decision boundaries</text>
+<line x1="32" y1="336" x2="768" y2="336" stroke="#d5dce5" stroke-width="1"/>
+<text x="32" y="370" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14.5" font-weight="700" fill="#17202c" text-anchor="start">Engineering leaders</text>
+<text x="214" y="370" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#8a94a1" text-anchor="start">−</text>
+<text x="230" y="370" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#687383" text-anchor="start">Assigning and tracking tasks</text>
+<rect x="486.5" y="348.5" width="281" height="79" rx="0" fill="#e3ecf6" stroke="#e3ecf6" stroke-width="1"/>
+<text x="500" y="370" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#315f91" text-anchor="start">+</text>
+<text x="518" y="370" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#172b42" text-anchor="start">Team design and ways of working</text>
+<text x="500" y="392" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#315f91" text-anchor="start">+</text>
+<text x="518" y="392" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#172b42" text-anchor="start">How quality is measured</text>
+<text x="500" y="414" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#315f91" text-anchor="start">+</text>
+<text x="518" y="414" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="400" fill="#172b42" text-anchor="start">How accountability is kept</text>
+<line x1="32" y1="440" x2="768" y2="440" stroke="#d5dce5" stroke-width="1"/>
+<text x="400" y="474" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="12.5" font-weight="400" fill="#687383" text-anchor="middle" font-style="italic">Generating code is becoming accessible. Knowing what to build, and whether it's right, remains critical.</text>
+</svg>

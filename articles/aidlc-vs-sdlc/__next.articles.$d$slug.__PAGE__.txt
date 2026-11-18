@@ -1,0 +1,283 @@
+1:"$Sreact.fragment"
+2:"/_next/static/chunks/3syi6wwqonng7.js"
+3:I[70119,["$2"],"default"]
+4:I[39756,["$2"],"default"]
+5:I[37457,["$2"],"default"]
+6:"/_next/static/chunks/23ealdjrqveb6.js"
+7:I[22016,["$2","$6"],""]
+1d:"ViewportBoundary"
+1e:I[97367,["$2"],"$1d"]
+1f:"MetadataBoundary"
+20:I[97367,["$2"],"$1f"]
+21:"$Sreact.suspense"
+:HL["/_next/static/chunks/2uetbm5wd6b1h.css","style"]
+:HL["/images/aidlc-vs-sdlc/hero.svg","image"]
+9:X
+c:X
+c:C
+f:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","article",null,{"className":"article container","children":[["$","$L7",null,{"className":"back-link","href":"/","children":"← Back to home"}],["$","header",null,{"className":"article-header","children":[["$","$L7",null,{"className":"eyebrow","href":"/category/ai-engineering/","children":"AI Engineering"}],["$","h1",null,{"children":"AI-DLC vs SDLC: The Future of Software Engineering Is Not About Writing Code Faster. It's About Rethinking How We Build Software."}],["$","p",null,{"className":"article-deck","children":"We spent decades optimizing how humans build software. Now that AI can participate in almost every stage of development, perhaps it is time to rethink the development lifecycle itself."}],["$","div",null,{"className":"article-byline","children":[["$","span",null,{"children":"STACK & STRATEGY"}],["$","time",null,{"dateTime":"2026-11-18","children":"18 November 2026"}],["$","span",null,{"children":"11 min read"}]]}],"$undefined"]}],["$","img",null,{"className":"article-hero","src":"/images/aidlc-vs-sdlc/hero.svg","alt":""}],["$","div",null,{"className":"article-layout","children":[["$","aside",null,{"className":"article-sidebar","children":["$","div",null,{"className":"sidebar-sticky","children":[["$","span",null,{"className":"eyebrow","children":"In this article"}],["$","span",null,{"className":"sidebar-rule"}],["$","$L7",null,{"className":"sidebar-category","href":"/category/ai-engineering/","children":"AI Engineering"}],["$","ol",null,{"className":"toc","children":[["$","li","the-sdlc-a-lifecycle-built-around-human-execution",{"children":["$","a",null,{"href":"#the-sdlc-a-lifecycle-built-around-human-execution","children":"The SDLC: A lifecycle built around human execution"}]}],["$","li","ai-assisted-sdlc-making-the-existing-lifecycle-faster",{"children":["$","a",null,{"href":"#ai-assisted-sdlc-making-the-existing-lifecycle-faster","children":"AI-assisted SDLC: Making the existing lifecycle faster"}]}],["$","li","ai-dlc-rethinking-the-way-software-gets-built",{"children":["$","a",null,{"href":"#ai-dlc-rethinking-the-way-software-gets-built","children":"AI-DLC: Rethinking the way software gets built"}]}],["$","li","the-real-challenge-ai-needs-engineering-context",{"children":["$","a",null,{"href":"#the-real-challenge-ai-needs-engineering-context","children":"The real challenge: AI needs engineering context"}]}],"$L10","$L11","$L12","$L13"]}],"$L14"]}]}],"$L15"]}],"$L16","$L17","$L18","$L19"]}],["$L1a"],"$L1b"]}],"p":"$@1c","v":null,"s":"$9"}}]]
+d:[["children",{"s":{"n":"slug","t":"d","k":"aidlc-vs-sdlc","s":[]},"h":65632,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@e","v":"$c","s":"$9"},"c":"$Qf"}]]
+a:[["children",{"s":"articles","h":131168,"d":{"r":["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]]}],"p":"$@b","v":"$c","s":"$9"},"c":"$Qd"}]]
+0:{"t":{"t":{"s":"","h":131152,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/2uetbm5wd6b1h.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/3syi6wwqonng7.js","async":true}]],["$","html",null,{"lang":"en","className":"PWemFG_variable -YaY6W_variable dwiynG_variable","children":["$","body",null,{"children":[["$","a",null,{"href":"#main","className":"skip-link","children":"Skip to content"}],["$","$L3",null,{}],["$","main",null,{"id":"main","children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}],"notFound":[["$","section",null,{"className":"listing-hero container not-found","children":[["$","p",null,{"className":"eyebrow","children":"Error 404"}],["$","h1",null,{"children":["Page not found",["$","span",null,{"children":"."}]]}],["$","p",null,{"children":"That page doesn't exist, or it may have moved."}],["$","$L7",null,{"className":"button-link","href":"/","children":["Back to the journal ",["$","span",null,{"children":"↗"}]]}]]}],[]]}]}],["$","footer",null,{"className":"site-footer","children":["$","div",null,{"className":"footer-inner","children":[["$","div",null,{"children":[["$","$L7",null,{"className":"footer-brand","href":"/","children":["Stack & Strategy",["$","span",null,{"children":"."}]]}],["$","p",null,{"children":"Independent thinking for people building what comes next."}]]}],["$","div",null,{"className":"footer-links","children":[["$","$L7",null,{"href":"/about/","children":"About"}],["$","a",null,{"href":"/rss.xml","children":"RSS feed"}],["$","$L7",null,{"href":"/privacy/","children":"Privacy"}],["$","a",null,{"href":"mailto:hello@stackandstrategy.in","children":"Contact"}]]}],["$","div",null,{"className":"copyright","children":["© ",2026," ","Stack & Strategy",". All rights reserved."]}]]}]}]]}]}]]}],"p":"$@8","v":null,"s":"$9"},"c":"$Qa"},"h":{"r":["$","$1","h",{"children":[null,["$","$L1e",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#f8f9fb"}]]}],["$","$L20",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$21",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"AI-DLC vs SDLC: The Future of Software Engineering Is Not About Writing Code Faster. It's About Rethinking How We Build Software. — Stack & Strategy"}],["$","meta","1",{"name":"description","content":"We spent decades optimizing how humans build software. Now that AI can participate in almost every stage of development, perhaps it is time to rethink the development lifecycle itself."}],["$","meta","2",{"name":"author","content":"Stack & Strategy"}],["$","link","3",{"rel":"canonical","href":"https://stackandstrategy.in/articles/aidlc-vs-sdlc/"}],["$","meta","4",{"property":"og:title","content":"AI-DLC vs SDLC: The Future of Software Engineering Is Not About Writing Code Faster. It's About Rethinking How We Build Software."}],["$","meta","5",{"property":"og:description","content":"We spent decades optimizing how humans build software. Now that AI can participate in almost every stage of development, perhaps it is time to rethink the development lifecycle itself."}],["$","meta","6",{"property":"og:url","content":"https://stackandstrategy.in/articles/aidlc-vs-sdlc/"}],["$","meta","7",{"property":"og:image","content":"https://stackandstrategy.in/images/aidlc-vs-sdlc/hero.svg"}],["$","meta","8",{"property":"og:type","content":"article"}],["$","meta","9",{"property":"article:published_time","content":"2026-11-18"}],["$","meta","10",{"property":"article:author","content":"Stack & Strategy"}],["$","meta","11",{"property":"article:section","content":"AI Engineering"}],["$","meta","12",{"property":"article:tag","content":"AI"}],["$","meta","13",{"property":"article:tag","content":"AI-DLC"}],["$","meta","14",{"property":"article:tag","content":"SDLC"}],["$","meta","15",{"property":"article:tag","content":"software engineering"}],["$","meta","16",{"property":"article:tag","content":"specification-driven development"}],["$","meta","17",{"name":"twitter:card","content":"summary"}],["$","meta","18",{"name":"twitter:title","content":"AI-DLC vs SDLC: The Future of Software Engineering Is Not About Writing Code Faster. It's About Rethinking How We Build Software."}],["$","meta","19",{"name":"twitter:description","content":"We spent decades optimizing how humans build software. Now that AI can participate in almost every stage of development, perhaps it is time to rethink the development lifecycle itself."}],"$L22","$L23","$L24"]}]}],null]}],"$L25"]}],"p":"$@26","v":null,"s":"$9"}},"a":"$@27","u":"$@28","b":"Hrn4Kzytxa5YcF2peB-LD"}
+2a:I[24170,["$2","$6"],"default"]
+2b:I[12060,["$2","$6"],"default"]
+2c:I[97367,["$2"],"OutletBoundary"]
+2e:I[27201,["$2"],"IconMark"]
+10:["$","li","the-lifecycle-needs-to-change-not-just-the-tools",{"children":["$","a",null,{"href":"#the-lifecycle-needs-to-change-not-just-the-tools","children":"The lifecycle needs to change, not just the tools"}]}]
+11:["$","li","why-this-is-more-than-an-ai-coding-exercise",{"children":["$","a",null,{"href":"#why-this-is-more-than-an-ai-coding-exercise","children":"Why this is more than an AI coding exercise"}]}]
+12:["$","li","what-happens-to-the-role-of-engineers-and-architects",{"children":["$","a",null,{"href":"#what-happens-to-the-role-of-engineers-and-architects","children":"What happens to the role of engineers and architects?"}]}]
+13:["$","li","my-perspective-we-should-stop-optimizing-only-for-faster-coding",{"children":["$","a",null,{"href":"#my-perspective-we-should-stop-optimizing-only-for-faster-coding","children":"My perspective: We should stop optimizing only for faster coding"}]}]
+14:["$","div",null,{"className":"tag-list","children":[["$","span","AI",{"children":"AI"}],["$","span","AI-DLC",{"children":"AI-DLC"}],["$","span","SDLC",{"children":"SDLC"}],["$","span","software engineering",{"children":"software engineering"}],["$","span","specification-driven development",{"children":"specification-driven development"}]]}]
+29:T5193,<p>There is a fundamental shift happening in software engineering.</p>
+<p>For decades, we have been improving the way software is developed. We moved from waterfall methodologies to Agile. We embraced DevOps, automated build and deployment pipelines, introduced infrastructure as code, and invested heavily in developer productivity.</p>
+<p>Each evolution helped us deliver software faster, more reliably, and with greater consistency.</p>
+<p>Now, artificial intelligence is introducing another dimension to this evolution.</p>
+<p>Developers are using AI coding assistants to generate code, write unit tests, troubleshoot problems, and understand unfamiliar codebases. Architects are experimenting with AI to explore design alternatives. Teams are using AI to translate requirements into technical specifications and automate repetitive engineering activities.</p>
+<p>The productivity improvements are becoming increasingly difficult to ignore.</p>
+<p>But I think we are asking the wrong question.</p>
+<p>Most conversations about AI in software development focus on how much faster developers can write code. We discuss code generation, AI copilots, autonomous agents, and productivity gains.</p>
+<p>What we discuss considerably less is whether the way we organize and execute software development needs to change altogether.</p>
+<p>Are we simply adding AI capabilities to an existing Software Development Life Cycle (SDLC), or are we moving towards a fundamentally different approach to building software?</p>
+<p>This is where the concept of AI-Driven Development Life Cycle (AI-DLC) becomes interesting.</p>
+<p>And I believe it deserves a much deeper conversation than simply comparing AI-generated code with manually written code.</p>
+<h2 id="the-sdlc-a-lifecycle-built-around-human-execution">The SDLC: A lifecycle built around human execution</h2>
+<p>The traditional Software Development Life Cycle has served the software industry remarkably well.</p>
+<p>Regardless of whether an organization follows waterfall, iterative development, Agile, or a hybrid methodology, the underlying engineering activities remain relatively consistent.</p>
+<p>We identify a business problem, gather requirements, design a solution, develop the software, test it, deploy it, and maintain it.</p>
+<p>The methodologies may differ, but the fundamental responsibilities remain recognizable.</p>
+<p>Humans understand the business problem, interpret requirements, make architectural decisions, write code, validate functionality, and coordinate delivery.</p>
+<p>Over the years, we have optimized these activities.</p>
+<p>Agile introduced shorter feedback cycles and iterative delivery. DevOps brought development and operations closer together. CI/CD automated much of the build, testing, and deployment process.</p>
+<p>These were significant improvements.</p>
+<p>However, even with all these advancements, a considerable amount of engineering work still depends on humans translating information from one activity into another.</p>
+<p>Business requirements become user stories. User stories become technical designs. Technical designs become implementation tasks. Implementation produces code. Testing validates whether the code satisfies the original requirements.</p>
+<p>Every transition requires interpretation.</p>
+<p>And interpretation introduces opportunities for information loss, inconsistencies, and misunderstandings.</p>
+<p>Think about a seemingly straightforward requirement:</p>
+<p>"Allow customers to update their delivery address."</p>
+<p>The requirement sounds simple.</p>
+<p>But an engineer needs to understand the customer domain, authentication model, address validation rules, order lifecycle, downstream integrations, data privacy requirements, and potential impacts on existing functionality.</p>
+<p>A Jira ticket alone rarely captures all this information.</p>
+<p><a href="/images/aidlc-vs-sdlc/sdlc-handoffs.svg"><img src="/images/aidlc-vs-sdlc/sdlc-handoffs.svg" alt="The traditional SDLC: business need, requirements, user stories, technical design, code and tests, with interpretation at every handoff, and the questions hidden inside one simple requirement"></a></p>
+<p>The developer must find the relevant documentation, speak to architects or business analysts, understand existing implementation patterns, and make several engineering decisions before writing code.</p>
+<p>This is not necessarily a problem with SDLC. It is simply how software engineering has evolved around human capabilities and collaboration.</p>
+<p>But what happens when AI can participate in these activities?</p>
+<h2 id="ai-assisted-sdlc-making-the-existing-lifecycle-faster">AI-assisted SDLC: Making the existing lifecycle faster</h2>
+<p>The first wave of AI adoption in software engineering has largely focused on improving individual activities within the existing development lifecycle.</p>
+<p>Developers use AI coding assistants. Test engineers generate test cases using AI. Architects use AI to explore design alternatives. Business analysts use AI to summarize requirements and produce documentation.</p>
+<p>These capabilities are valuable.</p>
+<p>However, the fundamental development workflow often remains unchanged.</p>
+<p>We still have requirements, design, development, testing, and deployment. AI simply helps humans perform some of these activities faster.</p>
+<p>Consider the difference:</p>
+<p>A developer receives a Jira story, opens an AI coding assistant, provides the relevant context, and asks it to implement the required functionality.</p>
+<p>The AI generates code. The developer reviews it, makes corrections, runs tests, and commits the changes.</p>
+<p>The developer remains responsible for coordinating the entire activity.</p>
+<p>This is AI-assisted SDLC.</p>
+<p><a href="/images/aidlc-vs-sdlc/ai-assisted-sdlc.svg"><img src="/images/aidlc-vs-sdlc/ai-assisted-sdlc.svg" alt="AI-assisted SDLC: AI helps inside each phase, but a developer still coordinates every handoff, so task speed improves while the workflow stays the same"></a></p>
+<p>It improves productivity, but it does not necessarily change the underlying engineering model.</p>
+<p>We have introduced a more capable tool into an existing process.</p>
+<p>I see this as an important transitional phase, but not necessarily the destination.</p>
+<p>The bigger opportunity is to rethink how these activities are connected and executed.</p>
+<h2 id="ai-dlc-rethinking-the-way-software-gets-built">AI-DLC: Rethinking the way software gets built</h2>
+<p>AI-DLC represents a shift in how we approach software development.</p>
+<p>Instead of introducing AI into individual SDLC activities, we redesign the development lifecycle to make AI an active participant across the engineering process.</p>
+<p>The starting point is no longer simply a collection of tasks assigned to developers.</p>
+<p>It is the business intent, the desired outcome, and the constraints within which the solution must operate.</p>
+<p>Humans define the problem, establish direction, provide business and architectural context, and set boundaries.</p>
+<p>AI helps transform that intent into structured requirements, specifications, architecture proposals, implementation plans, code, and validation activities.</p>
+<p>Humans review critical decisions, challenge assumptions, provide direction, and retain accountability for the outcome.</p>
+<p>The distinction is subtle but important.</p>
+<p>In AI-assisted SDLC, AI helps us execute existing activities.</p>
+<p>In AI-DLC, we reconsider how the activities themselves should be structured, coordinated, and executed.</p>
+<p>I would describe this as moving from AI-assisted tasks to AI-orchestrated engineering workflows.</p>
+<h3 id="understanding-the-three-approaches">Understanding the three approaches</h3>
+<table>
+<thead>
+<tr>
+<th>Dimension</th>
+<th>Traditional SDLC</th>
+<th>AI-assisted SDLC</th>
+<th>AI-DLC</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Starting point</td>
+<td>Requirements</td>
+<td>Requirements</td>
+<td>Business intent</td>
+</tr>
+<tr>
+<td>Requirements</td>
+<td>Human-defined</td>
+<td>AI-assisted</td>
+<td>AI elaborates, humans validate</td>
+</tr>
+<tr>
+<td>Planning</td>
+<td>Human-coordinated</td>
+<td>AI-supported</td>
+<td>AI proposes structured plans</td>
+</tr>
+<tr>
+<td>Architecture</td>
+<td>Human-led</td>
+<td>AI-supported</td>
+<td>Collaborative design and review</td>
+</tr>
+<tr>
+<td>Development</td>
+<td>Human implementation</td>
+<td>AI-assisted coding</td>
+<td>AI executes bounded engineering tasks</td>
+</tr>
+<tr>
+<td>Testing</td>
+<td>Human-designed and automated</td>
+<td>AI-assisted testing</td>
+<td>Continuous AI-supported validation</td>
+</tr>
+<tr>
+<td>Context</td>
+<td>Documents, tickets, conversations</td>
+<td>Documents plus AI context</td>
+<td>Structured and connected engineering context</td>
+</tr>
+<tr>
+<td>Coordination</td>
+<td>Human-driven</td>
+<td>Human-driven with AI support</td>
+<td>Human-AI orchestration</td>
+</tr>
+<tr>
+<td>Accountability</td>
+<td>Human-owned</td>
+<td>Human-owned</td>
+<td>Human-owned</td>
+</tr>
+</tbody>
+</table>
+<p>This comparison is not intended to suggest that every AI-DLC implementation will look identical.</p>
+<p>AI-DLC is an evolving approach, and different organizations will implement it differently.</p>
+<p>The important distinction is the underlying philosophy: AI becomes part of the engineering workflow rather than remaining an isolated productivity tool.</p>
+<h2 id="the-real-challenge-ai-needs-engineering-context">The real challenge: AI needs engineering context</h2>
+<p>There is one aspect of AI-DLC that I believe deserves particular attention.</p>
+<p>Context.</p>
+<p>We often hear that AI models are becoming increasingly capable. Their reasoning, coding, and problem-solving abilities continue to improve.</p>
+<p>But model capability alone does not guarantee good engineering outcomes.</p>
+<p>Consider the earlier requirement about updating a customer's delivery address.</p>
+<p>If an AI agent receives only that sentence, it might generate an API, create a database update operation, and produce a few unit tests.</p>
+<p>The implementation might even work.</p>
+<p>But does the agent understand whether an order has already shipped? Can the address be changed after payment? Does the customer need additional verification? Are there downstream systems that need to be notified? What are the organization's API standards? What security controls must be enforced?</p>
+<p>Without this context, the agent is making assumptions.</p>
+<p>And assumptions are particularly dangerous when they translate into executable software.</p>
+<p>This is why I believe AI-DLC needs to be built on a strong foundation of specification-driven development and context engineering.</p>
+<p>A specification should not merely describe what a feature does.</p>
+<p>It should capture the business intent, functional requirements, non-functional requirements, constraints, dependencies, acceptance criteria, and relevant architectural decisions.</p>
+<p>It should also remain connected to the implementation and validation activities that follow.</p>
+<p>In other words, the specification becomes an engineering asset rather than a document that is created at the beginning of a project and gradually forgotten.</p>
+<p>Imagine an engineering workflow in which an AI agent can access the relevant Jira stories, Confluence documentation, architecture standards, API contracts, domain models, and existing codebase.</p>
+<p>It can use this information to propose a solution, identify missing requirements, highlight architectural conflicts, and generate an implementation plan.</p>
+<p>That is considerably more powerful than asking an AI coding assistant to implement a Jira ticket.</p>
+<p><a href="/images/aidlc-vs-sdlc/engineering-context.svg"><img src="/images/aidlc-vs-sdlc/engineering-context.svg" alt="Engineering context: a sentence-only requirement forces the AI to assume, while stories, documentation, standards, API contracts, domain models and code flow through a context layer into a living specification"></a></p>
+<p>The objective is not to give AI access to everything.</p>
+<p>It is to provide the right context, at the right time, with the appropriate access controls.</p>
+<h2 id="the-lifecycle-needs-to-change-not-just-the-tools">The lifecycle needs to change, not just the tools</h2>
+<p>If we accept that AI can participate across the engineering lifecycle, we need to reconsider how the lifecycle is organized.</p>
+<p>I would think about AI-DLC through six interconnected engineering activities.</p>
+<p><a href="/images/aidlc-vs-sdlc/aidlc-six-activities.svg"><img src="/images/aidlc-vs-sdlc/aidlc-six-activities.svg" alt="The six AI-DLC activities as a continuous loop: specify, plan and architect, decompose, implement, validate, and deliver and learn, with AI and human roles in each"></a></p>
+<p><strong>1. Specify — Establish the intent</strong></p>
+<p>Start with the business problem rather than immediately translating it into development tasks.</p>
+<p>AI can help analyze requirements, identify ambiguities, ask clarifying questions, and produce structured specifications.</p>
+<p>Humans validate the business interpretation and approve the requirements.</p>
+<p><strong>2. Plan and architect — Establish the solution</strong></p>
+<p>AI can analyze the existing architecture, identify dependencies, propose design alternatives, and generate implementation plans.</p>
+<p>Architects remain responsible for evaluating trade-offs, security, scalability, integration patterns, and architectural alignment.</p>
+<p><strong>3. Decompose — Make the work executable</strong></p>
+<p>The approved solution is translated into smaller, traceable engineering tasks.</p>
+<p>AI can identify dependencies, suggest task sequencing, and establish the relationship between requirements, designs, and implementation activities.</p>
+<p><strong>4. Implement — Execute engineering work</strong></p>
+<p>AI coding agents work on bounded tasks using approved specifications, architectural context, coding standards, and existing implementation patterns.</p>
+<p>Developers review the changes, resolve complex problems, and remain accountable for code quality.</p>
+<p><strong>5. Validate — Establish correctness</strong></p>
+<p>AI helps generate and execute tests, analyze failures, review implementation against specifications, and identify potential regressions.</p>
+<p>Traditional deterministic testing remains essential. AI-generated validation must itself be evaluated rather than blindly trusted.</p>
+<p><strong>6. Deliver and learn — Close the engineering loop</strong></p>
+<p>Validated changes move through established release and deployment controls.</p>
+<p>Production feedback, defects, performance metrics, and operational observations feed into subsequent engineering decisions.</p>
+<p>The important point is that these activities should not operate as disconnected stages.</p>
+<p>They should form a continuous, traceable engineering workflow.</p>
+<h2 id="why-this-is-more-than-an-ai-coding-exercise">Why this is more than an AI coding exercise</h2>
+<p>One concern I have with the current AI development conversation is that we are measuring progress primarily through developer productivity.</p>
+<p>How much code can an AI agent generate? How many hours can it save? How many developers can a team support?</p>
+<p>These are useful questions, but they do not adequately measure the maturity of AI-driven software engineering.</p>
+<p>Consider a team that generates twice as much code using AI but spends significantly more time reviewing, correcting, and maintaining it.</p>
+<p>Has engineering productivity actually improved?</p>
+<p>What if the code is generated quickly but does not align with enterprise architecture standards?</p>
+<p>What if the implementation passes unit tests but violates an important business rule?</p>
+<p>What if an AI agent introduces a security vulnerability while attempting to solve a functional requirement?</p>
+<p>Increasing code generation is not the same as increasing software delivery capability.</p>
+<p>I believe we need to measure AI-DLC through broader engineering outcomes:</p>
+<ul>
+<li>Time from business intent to validated implementation.</li>
+<li>Requirement-to-code traceability.</li>
+<li>Architecture and security compliance.</li>
+<li>Defect rates and rework.</li>
+<li>Test effectiveness and coverage.</li>
+<li>Engineering throughput and delivery predictability.</li>
+<li>Production reliability and business outcomes.</li>
+</ul>
+<p><a href="/images/aidlc-vs-sdlc/measuring-aidlc.svg"><img src="/images/aidlc-vs-sdlc/measuring-aidlc.svg" alt="Measuring AI-DLC: activity metrics like lines of code and hours saved versus engineering outcomes like traceability, compliance, rework and production reliability"></a></p>
+<p>Ultimately, the objective should be better software delivered more effectively, not simply more software delivered faster.</p>
+<h2 id="what-happens-to-the-role-of-engineers-and-architects">What happens to the role of engineers and architects?</h2>
+<p>This is probably one of the most interesting implications of AI-DLC.</p>
+<p>If AI agents increasingly participate in requirements analysis, planning, coding, testing, and documentation, does that reduce the importance of engineers?</p>
+<p>I would argue the opposite.</p>
+<p>It changes where engineering judgment becomes most valuable.</p>
+<p>Engineers will need to spend less time on repetitive implementation activities and more time understanding business problems, validating assumptions, making design decisions, evaluating trade-offs, and ensuring that systems behave as intended.</p>
+<p>Architects will need to think beyond producing diagrams and technical documents. They will need to establish the architectural context, constraints, patterns, and decision boundaries within which AI agents operate.</p>
+<p>Engineering leaders will need to reconsider how teams are organized, how work is assigned, how quality is measured, and how accountability is maintained.</p>
+<p><a href="/images/aidlc-vs-sdlc/changing-roles.svg"><img src="/images/aidlc-vs-sdlc/changing-roles.svg" alt="How roles change: engineers, architects and engineering leaders spend less time on execution and more on judgment, context and accountability"></a></p>
+<p>This is not about removing engineering expertise from software development.</p>
+<p>It is about using that expertise differently.</p>
+<p>The ability to generate code is becoming increasingly accessible.</p>
+<p>The ability to understand what should be built, why it should be built, how it should fit into a broader system, and whether it is correct will remain critical.</p>
+<h2 id="my-perspective-we-should-stop-optimizing-only-for-faster-coding">My perspective: We should stop optimizing only for faster coding</h2>
+<p>I believe we are approaching an important transition in software engineering.</p>
+<p>For years, we have optimized the development lifecycle around making human engineering activities more efficient.</p>
+<p>We introduced better methodologies, development frameworks, automation platforms, and collaboration tools.</p>
+<p>AI introduces an opportunity to reconsider the entire operating model.</p>
+<p>But I don't believe the answer is to replace every engineering activity with an autonomous agent.</p>
+<p>There will always be decisions that require human judgment, business understanding, architectural accountability, and risk assessment.</p>
+<p>There will also be situations where a simple deterministic implementation is better than introducing an AI model.</p>
+<p>The real opportunity lies in identifying which activities benefit from AI, which should remain deterministic, and where human approval is essential.</p>
+<p>AI-DLC should not be viewed as an attempt to eliminate SDLC.</p>
+<p>The engineering foundations established through decades of software development remain relevant. Architecture, security, testing, version control, deployment automation, and operational excellence are still essential.</p>
+<p>What needs to change is how we orchestrate these capabilities.</p>
+<p><strong>The next evolution of software engineering will not be defined by how quickly we can generate code. It will be defined by how effectively we can translate intent into reliable software using human expertise and AI capabilities together.</strong></p>
+<p>That, to me, is the real promise of AI-DLC.</p>
+<p>And perhaps the most important question for engineering leaders is no longer how to introduce AI coding assistants into their teams.</p>
+<p>It is whether their existing software development lifecycle is ready for a fundamentally different way of building software.</p>
+<hr>
+<p><em>AI Engineering Series, Part 1: Rethinking the Software Development Lifecycle</em></p>
+<p><em>In the next article: Specification-Driven Development — The Missing Foundation of AI-DLC.</em></p>15:["$","div",null,{"className":"prose","dangerouslySetInnerHTML":{"__html":"$29"}}]
+16:["$","div",null,{"className":"article-end","children":[["$","span",null,{"children":"END OF ARTICLE"}],["$","$L7",null,{"href":"/search/","children":"Explore more thinking ↗"}]]}]
+17:["$","section",null,{"className":"article-discussion","aria-labelledby":"discussion-title","children":[["$","div",null,{"className":"about-label","children":"DISCUSSION"}],["$","div",null,{"children":[["$","h2",null,{"id":"discussion-title","children":"Reactions & comments"}],["$","p",null,{"className":"discussion-note","children":"Sign in with GitHub to react or join the conversation."}],["$","$L2a",null,{"slug":"aidlc-vs-sdlc"}]]}]]}]
+18:["$","section",null,{"className":"related-section","children":[["$","div",null,{"className":"section-heading","children":["$","div",null,{"children":[["$","p",null,{"className":"eyebrow","children":"Keep reading"}],["$","h2",null,{"children":"Related thinking"}]]}]}],["$","div",null,{"className":"post-grid","children":[["$","article","prompt-engineering-to-ai-engineering",{"className":"post-card","children":[["$","div",null,{"className":"post-meta","children":[["$","span",null,{"className":"eyebrow","children":"AI Engineering"}],["$","span",null,{"children":"18 Nov 2026"}],false]}],["$","h3",null,{"children":["$","$L7",null,{"href":"/articles/prompt-engineering-to-ai-engineering/","children":"From Prompt Engineering to AI Engineering: Why Building AI Products Requires More Than Good Prompts"}]}],["$","p",null,{"children":"The industry is getting better at talking to AI. But building reliable systems around AI requires an entirely different kind of engineering."}],["$","div",null,{"className":"card-bottom","children":[["$","span",null,{"children":"10 min read"}],["$","$L7",null,{"className":"text-link","href":"/articles/prompt-engineering-to-ai-engineering/","aria-hidden":true,"tabIndex":-1,"children":["Read article ",["$","span",null,{"children":"↗"}]]}]]}]]}],["$","article","ai-engineering-beyond-the-demo",{"className":"post-card","children":[["$","div",null,{"className":"post-meta","children":[["$","span",null,{"className":"eyebrow","children":"AI Engineering"}],["$","span",null,{"children":"12 Nov 2026"}],false]}],["$","h3",null,{"children":["$","$L7",null,{"href":"/articles/ai-engineering-beyond-the-demo/","children":"AI Engineering Begins Where the Demo Ends"}]}],["$","p",null,{"children":"A compelling prototype is a starting point, not evidence. Reliable AI products need evaluation, security, observability, cost controls, and clear failure behaviour."}],["$","div",null,{"className":"card-bottom","children":[["$","span",null,{"children":"6 min read"}],["$","$L7",null,{"className":"text-link","href":"/articles/ai-engineering-beyond-the-demo/","aria-hidden":true,"tabIndex":-1,"children":["Read article ",["$","span",null,{"children":"↗"}]]}]]}]]}],["$","article","architecture-is-a-business-capability",{"className":"post-card","children":[["$","div",null,{"className":"post-meta","children":[["$","span",null,{"className":"eyebrow","children":"Enterprise Architecture"}],["$","span",null,{"children":"17 Nov 2026"}],false]}],["$","h3",null,{"children":["$","$L7",null,{"href":"/articles/architecture-is-a-business-capability/","children":"Architecture Is a Business Capability, Not a Diagram"}]}],["$","p",null,{"children":"A useful architecture practice connects technology choices to business outcomes, operational realities, and the ability to change. Diagrams are a by-product, not the point."}],["$","div",null,{"className":"card-bottom","children":[["$","span",null,{"children":"6 min read"}],["$","$L7",null,{"className":"text-link","href":"/articles/architecture-is-a-business-capability/","aria-hidden":true,"tabIndex":-1,"children":["Read article ",["$","span",null,{"children":"↗"}]]}]]}]]}]]}]]}]
+19:["$","$L2b",null,{}]
+1a:["$","script","script-0",{"src":"/_next/static/chunks/23ealdjrqveb6.js","async":true}]
+1b:["$","$L2c",null,{"children":["$","$21",null,{"name":"Next.MetadataOutlet","children":"$@2d"}]}]
+22:["$","meta","20",{"name":"twitter:image","content":"https://stackandstrategy.in/images/aidlc-vs-sdlc/hero.svg"}]
+23:["$","link","21",{"rel":"icon","href":"/icon.svg?icon.3mlbcdlh808b4.svg","sizes":"any","type":"image/svg+xml"}]
+24:["$","$L2e","22",{}]
+25:["$","meta",null,{"name":"next-size-adjust","content":""}]
+9:300
+2d:null
+28:true
+9:C
+27:0
+e:"$undefined"
+b:"$undefined"
+8:"$undefined"
+26:"$undefined"
+1c:"$undefined"

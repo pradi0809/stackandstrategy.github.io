@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" width="1200" height="560" role="img" aria-labelledby="t d">
+<title id="t">AI-DLC vs SDLC</title>
+<desc id="d">Three stages in the evolution of software delivery: the SDLC built around human execution, the AI-assisted SDLC with faster tasks inside the same lifecycle, and AI-DLC, an orchestrated human and AI workflow.</desc>
+<defs><marker id="a" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#315f91"/></marker><marker id="aw" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0 0L10 5L0 10z" fill="#8a94a1"/></marker><marker id="as" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto"><path d="M0 0L10 5L0 10z" fill="#9bb8d4"/></marker><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity=".07"/></pattern></defs>
+<rect x="0.5" y="0.5" width="1199" height="559" rx="0" fill="#172b42" stroke="#172b42" stroke-width="1"/>
+<rect width="1200" height="560" fill="url(#grid)"/>
+<ellipse cx="1010" cy="70" rx="250" ry="110" fill="none" stroke="#9bb8d4" stroke-opacity=".25" transform="rotate(-18 1010 70)"/>
+<ellipse cx="1040" cy="40" rx="170" ry="190" fill="none" stroke="#9bb8d4" stroke-opacity=".18" transform="rotate(30 1040 40)"/>
+<text x="60" y="86" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14" font-weight="500" fill="#9bb8d4" text-anchor="start" letter-spacing="2">AI ENGINEERING  ·  PART 1</text>
+<text x="60" y="156" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="60" font-weight="700" fill="#ffffff" text-anchor="start" letter-spacing="-1.5">AI-DLC vs SDLC</text>
+<text x="60" y="204" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="23" font-weight="400" fill="#c0cbd7" text-anchor="start">From writing code faster to rethinking how we build software.</text>
+<rect x="60.5" y="268.5" width="319" height="221" rx="0" fill="#22394f" stroke="#2f4b67" stroke-width="1"/>
+<text x="84" y="306" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="500" fill="#9bb8d4" text-anchor="start" letter-spacing="1.2">01 · SDLC</text>
+<text x="84" y="342" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="start">Human execution</text>
+<text x="84" y="372" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#c0cbd7" text-anchor="start">People translate every step</text>
+<text x="84" y="393" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#c0cbd7" text-anchor="start">into the next one</text>
+<rect x="84.5" y="432.5" width="35" height="23" rx="0" fill="none" stroke="#9bb8d4" stroke-width="1"/>
+<line x1="120" y1="444" x2="140" y2="444" stroke="#9bb8d4" stroke-width="1"/>
+<rect x="140.5" y="432.5" width="35" height="23" rx="0" fill="none" stroke="#9bb8d4" stroke-width="1"/>
+<line x1="176" y1="444" x2="196" y2="444" stroke="#9bb8d4" stroke-width="1"/>
+<rect x="196.5" y="432.5" width="35" height="23" rx="0" fill="none" stroke="#9bb8d4" stroke-width="1"/>
+<line x1="232" y1="444" x2="252" y2="444" stroke="#9bb8d4" stroke-width="1"/>
+<rect x="252.5" y="432.5" width="35" height="23" rx="0" fill="none" stroke="#9bb8d4" stroke-width="1"/>
+<line x1="288" y1="444" x2="308" y2="444" stroke="#9bb8d4" stroke-width="1"/>
+<rect x="308.5" y="432.5" width="35" height="23" rx="0" fill="none" stroke="#9bb8d4" stroke-width="1"/>
+<line x1="390" y1="379.0" x2="428" y2="379.0" stroke="#9bb8d4" stroke-width="2" marker-end="url(#as)"/>
+<rect x="440.5" y="268.5" width="319" height="221" rx="0" fill="#22394f" stroke="#2f4b67" stroke-width="1"/>
+<text x="464" y="306" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="500" fill="#9bb8d4" text-anchor="start" letter-spacing="1.2">02 · AI-ASSISTED SDLC</text>
+<text x="464" y="342" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#ffffff" text-anchor="start">Faster tasks</text>
+<text x="464" y="372" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#c0cbd7" text-anchor="start">Same lifecycle, with AI</text>
+<text x="464" y="393" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#c0cbd7" text-anchor="start">inside individual steps</text>
+<rect x="464.5" y="432.5" width="35" height="23" rx="0" fill="none" stroke="#9bb8d4" stroke-width="1"/>
+<line x1="500" y1="444" x2="520" y2="444" stroke="#9bb8d4" stroke-width="1"/>
+<circle cx="482" cy="422" r="4" fill="#9bb8d4"/>
+<rect x="520.5" y="432.5" width="35" height="23" rx="0" fill="none" stroke="#9bb8d4" stroke-width="1"/>
+<line x1="556" y1="444" x2="576" y2="444" stroke="#9bb8d4" stroke-width="1"/>
+<circle cx="538" cy="422" r="4" fill="#9bb8d4"/>
+<rect x="576.5" y="432.5" width="35" height="23" rx="0" fill="none" stroke="#9bb8d4" stroke-width="1"/>
+<line x1="612" y1="444" x2="632" y2="444" stroke="#9bb8d4" stroke-width="1"/>
+<circle cx="594" cy="422" r="4" fill="#9bb8d4"/>
+<rect x="632.5" y="432.5" width="35" height="23" rx="0" fill="none" stroke="#9bb8d4" stroke-width="1"/>
+<line x1="668" y1="444" x2="688" y2="444" stroke="#9bb8d4" stroke-width="1"/>
+<circle cx="650" cy="422" r="4" fill="#9bb8d4"/>
+<rect x="688.5" y="432.5" width="35" height="23" rx="0" fill="none" stroke="#9bb8d4" stroke-width="1"/>
+<circle cx="706" cy="422" r="4" fill="#9bb8d4"/>
+<line x1="770" y1="379.0" x2="808" y2="379.0" stroke="#9bb8d4" stroke-width="2" marker-end="url(#as)"/>
+<rect x="820.5" y="268.5" width="319" height="221" rx="0" fill="#ffffff" stroke="#9bb8d4" stroke-width="1"/>
+<text x="844" y="306" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12.5" font-weight="500" fill="#315f91" text-anchor="start" letter-spacing="1.2">03 · AI-DLC</text>
+<text x="844" y="342" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="700" fill="#17202c" text-anchor="start">Orchestrated workflow</text>
+<text x="844" y="372" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#687383" text-anchor="start">Intent in, AI across the</text>
+<text x="844" y="393" font-family="Manrope, 'DM Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" font-weight="400" fill="#687383" text-anchor="start">lifecycle, humans accountable</text>
+<circle cx="980" cy="440" r="26" fill="none" stroke="#315f91" stroke-dasharray="3 4"/>
+<circle cx="980.0" cy="414.0" r="5" fill="#315f91"/>
+<circle cx="1002.5166604983954" cy="427.0" r="5" fill="#315f91"/>
+<circle cx="1002.5166604983954" cy="453.0" r="5" fill="#315f91"/>
+<circle cx="980.0" cy="466.0" r="5" fill="#315f91"/>
+<circle cx="957.4833395016046" cy="453.0" r="5" fill="#315f91"/>
+<circle cx="957.4833395016046" cy="427.0" r="5" fill="#315f91"/>
+<circle cx="980" cy="440" r="7" fill="#172b42"/>
+<text x="1140" y="528" font-family="'DM Mono', ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12" font-weight="500" fill="#9bb8d4" text-anchor="end" letter-spacing="2">STACK &amp; STRATEGY</text>
+</svg>
